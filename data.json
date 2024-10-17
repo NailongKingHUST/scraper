@@ -60,15 +60,33 @@
         "done": true
     },
     {
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "allTimePeak": 879308,
+        "done": true
+    },
+    {
         "appid": 1086940,
         "name": "Baldur's Gate 3",
         "allTimePeak": 875343,
         "done": true
     },
     {
+        "appid": 1568590,
+        "name": "Goose Goose Duck",
+        "allTimePeak": 702845,
+        "done": true
+    },
+    {
         "appid": 1172470,
         "name": "Apex Legends",
         "allTimePeak": 624473,
+        "done": true
+    },
+    {
+        "appid": 892970,
+        "name": "Valheim",
+        "allTimePeak": 502387,
         "done": true
     },
     {
@@ -84,9 +102,57 @@
         "done": true
     },
     {
+        "appid": 1515950,
+        "name": "Capcom Arcade Stadium",
+        "allTimePeak": 488791,
+        "done": true
+    },
+    {
+        "appid": 377160,
+        "name": "Fallout 4",
+        "allTimePeak": 472962,
+        "done": true
+    },
+    {
+        "appid": 532210,
+        "name": "Life is Strange 2",
+        "allTimePeak": 468717,
+        "done": true
+    },
+    {
+        "appid": 1755910,
+        "name": "Capcom Arcade 2nd Stadium",
+        "allTimePeak": 463928,
+        "done": true
+    },
+    {
         "appid": 553850,
         "name": "HELLDIVERS\u2122 2",
         "allTimePeak": 458709,
+        "done": true
+    },
+    {
+        "appid": 945360,
+        "name": "Among Us",
+        "allTimePeak": 447476,
+        "done": true
+    },
+    {
+        "appid": 1326470,
+        "name": "Sons Of The Forest",
+        "allTimePeak": 414257,
+        "done": true
+    },
+    {
+        "appid": 232770,
+        "name": "POSTAL",
+        "allTimePeak": 412063,
+        "done": true
+    },
+    {
+        "appid": 552990,
+        "name": "World of Warships",
+        "allTimePeak": 411338,
         "done": true
     },
     {
@@ -102,6 +168,18 @@
         "done": true
     },
     {
+        "appid": 863550,
+        "name": "HITMAN\u2122 2",
+        "allTimePeak": 361001,
+        "done": true
+    },
+    {
+        "appid": 370910,
+        "name": "Kathy Rain",
+        "allTimePeak": 348015,
+        "done": true
+    },
+    {
         "appid": 2429640,
         "name": "THRONE AND LIBERTY",
         "allTimePeak": 336300,
@@ -114,15 +192,69 @@
         "done": true
     },
     {
+        "appid": 1716740,
+        "name": "Starfield",
+        "allTimePeak": 330723,
+        "done": true
+    },
+    {
+        "appid": 622590,
+        "name": "PUBG: Test Server",
+        "allTimePeak": 320178,
+        "done": true
+    },
+    {
+        "appid": 10,
+        "name": "Counter-Strike",
+        "allTimePeak": 319586,
+        "done": true
+    },
+    {
         "appid": 1085660,
         "name": "Destiny 2",
         "allTimePeak": 316750,
         "done": true
     },
     {
+        "appid": 72850,
+        "name": "The Elder Scrolls V: Skyrim",
+        "allTimePeak": 287411,
+        "done": true
+    },
+    {
+        "appid": 534380,
+        "name": "Dying Light 2: Reloaded Edition",
+        "allTimePeak": 274983,
+        "done": true
+    },
+    {
+        "appid": 1240440,
+        "name": "Halo Infinite",
+        "allTimePeak": 272586,
+        "done": true
+    },
+    {
+        "appid": 343710,
+        "name": "KHOLAT",
+        "allTimePeak": 272019,
+        "done": true
+    },
+    {
+        "appid": 2076040,
+        "name": "THE FINALS PLAYTEST",
+        "allTimePeak": 267874,
+        "done": true
+    },
+    {
         "appid": 2074920,
         "name": "The First Descendant",
         "allTimePeak": 264860,
+        "done": true
+    },
+    {
+        "appid": 899770,
+        "name": "Last Epoch",
+        "allTimePeak": 264708,
         "done": true
     },
     {
@@ -150,15 +282,33 @@
         "done": true
     },
     {
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "allTimePeak": 247709,
+        "done": true
+    },
+    {
         "appid": 252490,
         "name": "Rust",
         "allTimePeak": 245243,
         "done": true
     },
     {
+        "appid": 448940,
+        "name": "Envoy 2",
+        "allTimePeak": 244375,
+        "done": true
+    },
+    {
         "appid": 2073850,
         "name": "THE FINALS",
         "allTimePeak": 242619,
+        "done": true
+    },
+    {
+        "appid": 1966720,
+        "name": "Lethal Company",
+        "allTimePeak": 240817,
         "done": true
     },
     {
@@ -174,9 +324,27 @@
         "done": true
     },
     {
+        "appid": 1446780,
+        "name": "MONSTER HUNTER RISE",
+        "allTimePeak": 231360,
+        "done": true
+    },
+    {
         "appid": 238960,
         "name": "Path of Exile",
         "allTimePeak": 229337,
+        "done": true
+    },
+    {
+        "appid": 2054970,
+        "name": "Dragon's Dogma 2",
+        "allTimePeak": 228585,
+        "done": true
+    },
+    {
+        "appid": 304390,
+        "name": "For Honor",
+        "allTimePeak": 225831,
         "done": true
     },
     {
@@ -192,9 +360,57 @@
         "done": true
     },
     {
+        "appid": 285800,
+        "name": "Braveland",
+        "allTimePeak": 218169,
+        "done": true
+    },
+    {
+        "appid": 308600,
+        "name": "Gene Shift Auto",
+        "allTimePeak": 214143,
+        "done": true
+    },
+    {
+        "appid": 275850,
+        "name": "No Man's Sky",
+        "allTimePeak": 212613,
+        "done": true
+    },
+    {
+        "appid": 2881650,
+        "name": "Content Warning",
+        "allTimePeak": 204439,
+        "done": true
+    },
+    {
+        "appid": 1046930,
+        "name": "Dota Underlords",
+        "allTimePeak": 202334,
+        "done": true
+    },
+    {
         "appid": 359550,
         "name": "Tom Clancy's Rainbow Six Siege",
         "allTimePeak": 201933,
+        "done": true
+    },
+    {
+        "appid": 1205550,
+        "name": "New World Public Test Realm",
+        "allTimePeak": 200856,
+        "done": true
+    },
+    {
+        "appid": 779340,
+        "name": "Total War: THREE KINGDOMS",
+        "allTimePeak": 192298,
+        "done": true
+    },
+    {
+        "appid": 278360,
+        "name": "A Story About My Uncle",
+        "allTimePeak": 190590,
         "done": true
     },
     {
@@ -204,9 +420,57 @@
         "done": true
     },
     {
+        "appid": 1100600,
+        "name": "Football Manager 2020",
+        "allTimePeak": 189464,
+        "done": true
+    },
+    {
+        "appid": 1487290,
+        "name": "NARAKA: BLADEPOINT Demo",
+        "allTimePeak": 186589,
+        "done": true
+    },
+    {
         "appid": 526870,
         "name": "Satisfactory",
         "allTimePeak": 186158,
+        "done": true
+    },
+    {
+        "appid": 243750,
+        "name": "Source SDK Base 2013 Multiplayer",
+        "allTimePeak": 184888,
+        "done": true
+    },
+    {
+        "appid": 1468810,
+        "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
+        "allTimePeak": 184171,
+        "done": true
+    },
+    {
+        "appid": 402390,
+        "name": "Hyperdrive Massacre",
+        "allTimePeak": 181308,
+        "done": true
+    },
+    {
+        "appid": 1363080,
+        "name": "Manor Lords",
+        "allTimePeak": 173178,
+        "done": true
+    },
+    {
+        "appid": 510840,
+        "name": "Evolvation",
+        "allTimePeak": 172870,
+        "done": true
+    },
+    {
+        "appid": 1097150,
+        "name": "Fall Guys",
+        "allTimePeak": 172213,
         "done": true
     },
     {
@@ -216,130 +480,550 @@
         "done": true
     },
     {
+        "appid": 2075730,
+        "name": "Call of Duty\u00ae: Modern Warfare\u00ae II - Open Beta",
+        "allTimePeak": 168330,
+        "done": true
+    },
+    {
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "allTimePeak": 168191,
+        "done": true
+    },
+    {
         "appid": 1142710,
         "name": "Total War: WARHAMMER III",
         "allTimePeak": 166754,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 395170,
+        "name": "DISTRAINT: Deluxe Edition",
+        "allTimePeak": 165266,
+        "done": true
+    },
+    {
+        "appid": 96000,
+        "name": "The Tiny Bang Story",
+        "allTimePeak": 164840,
+        "done": true
+    },
+    {
+        "appid": 231430,
+        "name": "Company of Heroes 2",
+        "allTimePeak": 164688,
+        "done": true
     },
     {
         "appid": 289070,
         "name": "Sid Meier's Civilization VI",
         "allTimePeak": 162657,
-        "done": false
+        "done": true
     },
     {
         "appid": 550,
         "name": "Left 4 Dead 2",
         "allTimePeak": 162399,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 976730,
+        "name": "Halo: The Master Chief Collection",
+        "allTimePeak": 161024,
+        "done": true
+    },
+    {
+        "appid": 1203620,
+        "name": "Enshrouded",
+        "allTimePeak": 160405,
+        "done": true
+    },
+    {
+        "appid": 1638720,
+        "name": "Battlefield\u2122 2042 Open Beta",
+        "allTimePeak": 156665,
+        "done": true
+    },
+    {
+        "appid": 1888160,
+        "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
+        "allTimePeak": 156171,
+        "done": true
+    },
+    {
+        "appid": 491950,
+        "name": "Orwell",
+        "allTimePeak": 154375,
+        "done": true
+    },
+    {
+        "appid": 1818750,
+        "name": "MultiVersus",
+        "allTimePeak": 153433,
+        "done": true
+    },
+    {
+        "appid": 433850,
+        "name": "Z1 Battle Royale",
+        "allTimePeak": 151239,
+        "done": true
+    },
+    {
+        "appid": 1604030,
+        "name": "V Rising",
+        "allTimePeak": 150645,
+        "done": true
     },
     {
         "appid": 431960,
         "name": "Wallpaper Engine",
         "allTimePeak": 150375,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 638070,
+        "name": "Murderous Pursuits",
+        "allTimePeak": 149224,
+        "done": true
+    },
+    {
+        "appid": 1584640,
+        "name": "NARAKA: BLADEPOINT Playtest",
+        "allTimePeak": 148931,
+        "done": true
+    },
+    {
+        "appid": 696370,
+        "name": "BROKE PROTOCOL",
+        "allTimePeak": 147854,
+        "done": true
+    },
+    {
+        "appid": 252950,
+        "name": "Rocket League",
+        "allTimePeak": 147632,
+        "done": true
+    },
+    {
+        "appid": 391720,
+        "name": "Layers of Fear (2016)",
+        "allTimePeak": 145384,
+        "done": true
+    },
+    {
+        "appid": 1724660,
+        "name": "New World: Aeternum Open Beta",
+        "allTimePeak": 141668,
+        "done": true
+    },
+    {
+        "appid": 203770,
+        "name": "Crusader Kings II",
+        "allTimePeak": 141439,
+        "done": true
+    },
+    {
+        "appid": 334210,
+        "name": "Fortified",
+        "allTimePeak": 138627,
+        "done": true
+    },
+    {
+        "appid": 1301350,
+        "name": "Party Animals Demo",
+        "allTimePeak": 135843,
+        "done": true
+    },
+    {
+        "appid": 268500,
+        "name": "XCOM 2",
+        "allTimePeak": 133022,
+        "done": true
+    },
+    {
+        "appid": 374320,
+        "name": "DARK SOULS\u2122 III",
+        "allTimePeak": 129975,
+        "done": true
+    },
+    {
+        "appid": 351940,
+        "name": "The Descendant",
+        "allTimePeak": 128847,
+        "done": true
+    },
+    {
+        "appid": 365450,
+        "name": "Hacknet",
+        "allTimePeak": 127640,
+        "done": true
+    },
+    {
+        "appid": 424370,
+        "name": "Wolcen: Lords of Mayhem",
+        "allTimePeak": 127542,
+        "done": true
+    },
+    {
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "allTimePeak": 127517,
+        "done": true
     },
     {
         "appid": 251570,
         "name": "7 Days to Die",
         "allTimePeak": 125419,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 814380,
+        "name": "Sekiro\u2122: Shadows Die Twice",
+        "allTimePeak": 125315,
+        "done": true
+    },
+    {
+        "appid": 680420,
+        "name": "OUTRIDERS",
+        "allTimePeak": 125143,
+        "done": true
+    },
+    {
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "allTimePeak": 124678,
+        "done": true
+    },
+    {
+        "appid": 1385510,
+        "name": "Back 4 Blood Beta",
+        "allTimePeak": 122659,
+        "done": true
     },
     {
         "appid": 1790600,
         "name": "DRAGON BALL: Sparking! ZERO",
         "allTimePeak": 122554,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 490220,
+        "name": "Prismata",
+        "allTimePeak": 122553,
+        "done": true
+    },
+    {
+        "appid": 222880,
+        "name": "Insurgency",
+        "allTimePeak": 121575,
+        "done": true
     },
     {
         "appid": 236390,
         "name": "War Thunder",
         "allTimePeak": 121318,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 232050,
+        "name": "Eador. Masters of the Broken World",
+        "allTimePeak": 118780,
+        "done": true
+    },
+    {
+        "appid": 42710,
+        "name": "Call of Duty: Black Ops - Multiplayer",
+        "allTimePeak": 118593,
+        "done": true
+    },
+    {
+        "appid": 214950,
+        "name": "Total War: ROME II - Emperor Edition",
+        "allTimePeak": 118240,
+        "done": true
     },
     {
         "appid": 1238810,
         "name": "Battlefield\u2122 V",
         "allTimePeak": 116104,
-        "done": false
+        "done": true
     },
     {
         "appid": 322330,
         "name": "Don't Starve Together",
         "allTimePeak": 115925,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 365590,
+        "name": "Tom Clancy's The Division",
+        "allTimePeak": 114228,
+        "done": true
+    },
+    {
+        "appid": 881020,
+        "name": "Granblue Fantasy: Relink",
+        "allTimePeak": 114054,
+        "done": true
+    },
+    {
+        "appid": 364360,
+        "name": "Total War: WARHAMMER",
+        "allTimePeak": 113019,
+        "done": true
+    },
+    {
+        "appid": 10190,
+        "name": "Call of Duty: Modern Warfare 2 (2009) - Multiplayer",
+        "allTimePeak": 112874,
+        "done": true
+    },
+    {
+        "appid": 739630,
+        "name": "Phasmophobia",
+        "allTimePeak": 112717,
+        "done": true
     },
     {
         "appid": 304930,
         "name": "Unturned",
         "allTimePeak": 112703,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 1811260,
+        "name": "EA SPORTS\u2122 FIFA 23",
+        "allTimePeak": 110878,
+        "done": true
+    },
+    {
+        "appid": 1282100,
+        "name": "Remnant II",
+        "allTimePeak": 110856,
+        "done": true
     },
     {
         "appid": 2669320,
         "name": "EA SPORTS FC 25",
         "allTimePeak": 110026,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 2258570,
+        "name": "Dark and Darker Demo",
+        "allTimePeak": 108520,
+        "done": true
+    },
+    {
+        "appid": 1361210,
+        "name": "Warhammer 40,000: Darktide",
+        "allTimePeak": 108395,
+        "done": true
+    },
+    {
+        "appid": 1506830,
+        "name": "FIFA 22",
+        "allTimePeak": 108295,
+        "done": true
+    },
+    {
+        "appid": 1418630,
+        "name": "Dread Hunger",
+        "allTimePeak": 107982,
+        "done": true
+    },
+    {
+        "appid": 209080,
+        "name": "Guns of Icarus Online",
+        "allTimePeak": 107883,
+        "done": true
+    },
+    {
+        "appid": 1517290,
+        "name": "Battlefield\u2122 2042",
+        "allTimePeak": 107376,
+        "done": true
     },
     {
         "appid": 2195250,
         "name": "EA SPORTS FC\u2122 24",
         "allTimePeak": 107359,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 1196590,
+        "name": "Resident Evil Village",
+        "allTimePeak": 106631,
+        "done": true
     },
     {
         "appid": 1248130,
         "name": "Farming Simulator 22",
         "allTimePeak": 105636,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 813820,
+        "name": "Realm Royale Reforged",
+        "allTimePeak": 105440,
+        "done": true
     },
     {
         "appid": 381210,
         "name": "Dead by Daylight",
         "allTimePeak": 105093,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 782330,
+        "name": "DOOM Eternal",
+        "allTimePeak": 104891,
+        "done": true
+    },
+    {
+        "appid": 949230,
+        "name": "Cities: Skylines II",
+        "allTimePeak": 104697,
+        "done": true
+    },
+    {
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "allTimePeak": 104323,
+        "done": true
+    },
+    {
+        "appid": 1260320,
+        "name": "Party Animals",
+        "allTimePeak": 104174,
+        "done": true
     },
     {
         "appid": 1145350,
         "name": "Hades II",
         "allTimePeak": 103567,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 292030,
+        "name": "The Witcher 3: Wild Hunt",
+        "allTimePeak": 103329,
+        "done": true
+    },
+    {
+        "appid": 1690940,
+        "name": "DELTARUNE (Chapter 1 & 2 DEMO)",
+        "allTimePeak": 102916,
+        "done": true
     },
     {
         "appid": 480,
         "name": "Spacewar",
         "allTimePeak": 102705,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 648800,
+        "name": "Raft",
+        "allTimePeak": 101096,
+        "done": true
+    },
+    {
+        "appid": 240,
+        "name": "Counter-Strike: Source",
+        "allTimePeak": 100056,
+        "done": true
     },
     {
         "appid": 1158310,
         "name": "Crusader Kings III",
         "allTimePeak": 98872,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 1868140,
+        "name": "DAVE THE DIVER",
+        "allTimePeak": 98480,
+        "done": true
+    },
+    {
+        "appid": 620,
+        "name": "Portal 2",
+        "allTimePeak": 98460,
+        "done": true
     },
     {
         "appid": 2399830,
         "name": "ARK: Survival Ascended",
         "allTimePeak": 98047,
-        "done": false
+        "done": true
     },
     {
         "appid": 1623660,
         "name": "MIR4",
         "allTimePeak": 97173,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 1642370,
+        "name": "Terra Nil Demo",
+        "allTimePeak": 96520,
+        "done": true
     },
     {
         "appid": 1222670,
         "name": "The Sims\u2122 4",
         "allTimePeak": 96328,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 379430,
+        "name": "Kingdom Come: Deliverance",
+        "allTimePeak": 96069,
+        "done": true
     },
     {
         "appid": 39210,
         "name": "FINAL FANTASY XIV Online",
         "allTimePeak": 95150,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 2567870,
+        "name": "Chained Together",
+        "allTimePeak": 94480,
+        "done": true
+    },
+    {
+        "appid": 1263850,
+        "name": "Football Manager 2021",
+        "allTimePeak": 93865,
+        "done": true
+    },
+    {
+        "appid": 397540,
+        "name": "Borderlands 3",
+        "allTimePeak": 93820,
+        "done": true
+    },
+    {
+        "appid": 435150,
+        "name": "Divinity: Original Sin 2",
+        "allTimePeak": 93701,
+        "done": true
+    },
+    {
+        "appid": 204880,
+        "name": "Sins of a Solar Empire: Rebellion",
+        "allTimePeak": 93109,
+        "done": true
+    },
+    {
+        "appid": 552520,
+        "name": "Far Cry 5",
+        "allTimePeak": 92445,
+        "done": true
     },
     {
         "appid": 8930,
@@ -348,255 +1032,4971 @@
         "done": false
     },
     {
+        "appid": 287700,
+        "name": "METAL GEAR SOLID V: THE PHANTOM PAIN",
+        "allTimePeak": 91195,
+        "done": false
+    },
+    {
         "appid": 2977660,
         "name": "Cats",
         "allTimePeak": 90669,
-        "done": false
+        "done": true
+    },
+    {
+        "appid": 203160,
+        "name": "Tomb Raider",
+        "allTimePeak": 89538,
+        "done": true
     },
     {
         "appid": 2252570,
         "name": "Football Manager 2024",
         "allTimePeak": 89478,
+        "done": true
+    },
+    {
+        "appid": 289130,
+        "name": "ENDLESS\u2122 Legend",
+        "allTimePeak": 89190,
+        "done": false
+    },
+    {
+        "appid": 601150,
+        "name": "Devil May Cry 5",
+        "allTimePeak": 88894,
+        "done": false
+    },
+    {
+        "appid": 1569040,
+        "name": "Football Manager 2022",
+        "allTimePeak": 88767,
+        "done": false
+    },
+    {
+        "appid": 211820,
+        "name": "Starbound",
+        "allTimePeak": 88709,
+        "done": false
+    },
+    {
+        "appid": 322170,
+        "name": "Geometry Dash",
+        "allTimePeak": 88346,
+        "done": false
+    },
+    {
+        "appid": 1793660,
+        "name": "Lost Ark Closed Technical Beta ",
+        "allTimePeak": 88075,
+        "done": false
+    },
+    {
+        "appid": 286570,
+        "name": "F1 2015",
+        "allTimePeak": 88029,
+        "done": false
+    },
+    {
+        "appid": 207890,
+        "name": "Football Manager 2013",
+        "allTimePeak": 87719,
+        "done": false
+    },
+    {
+        "appid": 671860,
+        "name": "BattleBit Remastered",
+        "allTimePeak": 87323,
+        "done": false
+    },
+    {
+        "appid": 65980,
+        "name": "Sid Meier's Civilization: Beyond Earth",
+        "allTimePeak": 86892,
+        "done": false
+    },
+    {
+        "appid": 42690,
+        "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011) - Multiplayer",
+        "allTimePeak": 86832,
+        "done": false
+    },
+    {
+        "appid": 1222680,
+        "name": "Need for Speed\u2122 Heat ",
+        "allTimePeak": 86196,
         "done": false
     },
     {
         "appid": 2679460,
         "name": "Metaphor: ReFantazio",
         "allTimePeak": 85961,
-        "done": false
+        "done": true
     },
     {
         "appid": 1920960,
         "name": "VPet",
         "allTimePeak": 85551,
+        "done": true
+    },
+    {
+        "appid": 3132990,
+        "name": "Black Myth: Wukong Benchmark Tool",
+        "allTimePeak": 85277,
+        "done": false
+    },
+    {
+        "appid": 594570,
+        "name": "Total War: WARHAMMER II",
+        "allTimePeak": 84920,
+        "done": false
+    },
+    {
+        "appid": 696790,
+        "name": "Call of Duty: WWII - PC Open Beta",
+        "allTimePeak": 84832,
+        "done": false
+    },
+    {
+        "appid": 1904540,
+        "name": "Football Manager 2023",
+        "allTimePeak": 83715,
+        "done": false
+    },
+    {
+        "appid": 265590,
+        "name": "The Red Solstice",
+        "allTimePeak": 82980,
+        "done": false
+    },
+    {
+        "appid": 378120,
+        "name": "Football Manager 2016",
+        "allTimePeak": 82916,
         "done": false
     },
     {
         "appid": 3097560,
         "name": "Liar's Bar",
         "allTimePeak": 82780,
+        "done": true
+    },
+    {
+        "appid": 920210,
+        "name": "LEGO\u00ae Star Wars\u2122: The Skywalker Saga",
+        "allTimePeak": 82517,
+        "done": false
+    },
+    {
+        "appid": 1810580,
+        "name": "Nobody - The Turnaround",
+        "allTimePeak": 82511,
+        "done": false
+    },
+    {
+        "appid": 998940,
+        "name": "\u9690\u5f62\u5b88\u62a4\u8005 The Invisible Guardian",
+        "allTimePeak": 82345,
+        "done": false
+    },
+    {
+        "appid": 295270,
+        "name": "Football Manager 2015",
+        "allTimePeak": 82071,
+        "done": false
+    },
+    {
+        "appid": 439190,
+        "name": "Stories: The Path of Destinies",
+        "allTimePeak": 81664,
+        "done": false
+    },
+    {
+        "appid": 1551360,
+        "name": "Forza Horizon 5",
+        "allTimePeak": 81096,
+        "done": false
+    },
+    {
+        "appid": 985810,
+        "name": "GrandChase",
+        "allTimePeak": 79883,
+        "done": false
+    },
+    {
+        "appid": 236430,
+        "name": "DARK SOULS\u2122 II",
+        "allTimePeak": 79528,
+        "done": false
+    },
+    {
+        "appid": 231670,
+        "name": "Football Manager 2014",
+        "allTimePeak": 79105,
+        "done": false
+    },
+    {
+        "appid": 424840,
+        "name": "Little Nightmares",
+        "allTimePeak": 78169,
         "done": false
     },
     {
         "appid": 394360,
         "name": "Hearts of Iron IV",
         "allTimePeak": 78108,
+        "done": true
+    },
+    {
+        "appid": 242760,
+        "name": "The Forest",
+        "allTimePeak": 78097,
+        "done": false
+    },
+    {
+        "appid": 1272080,
+        "name": "PAYDAY 3",
+        "allTimePeak": 77938,
         "done": false
     },
     {
         "appid": 1174180,
         "name": "Red Dead Redemption 2",
         "allTimePeak": 77655,
+        "done": true
+    },
+    {
+        "appid": 71270,
+        "name": "Football Manager 2012",
+        "allTimePeak": 77630,
+        "done": false
+    },
+    {
+        "appid": 2074930,
+        "name": "The First Descendant Final Technical Test",
+        "allTimePeak": 77591,
+        "done": false
+    },
+    {
+        "appid": 2215430,
+        "name": "Ghost of Tsushima DIRECTOR'S CUT",
+        "allTimePeak": 77154,
+        "done": false
+    },
+    {
+        "appid": 1794680,
+        "name": "Vampire Survivors",
+        "allTimePeak": 77061,
+        "done": false
+    },
+    {
+        "appid": 1254120,
+        "name": "Bless Unleashed",
+        "allTimePeak": 76377,
+        "done": false
+    },
+    {
+        "appid": 872790,
+        "name": "Football Manager 2019",
+        "allTimePeak": 75982,
         "done": false
     },
     {
         "appid": 1782210,
         "name": "Crab Game",
         "allTimePeak": 75967,
+        "done": true
+    },
+    {
+        "appid": 1448440,
+        "name": "Wo Long: Fallen Dynasty",
+        "allTimePeak": 75906,
+        "done": false
+    },
+    {
+        "appid": 1293830,
+        "name": "Forza Horizon 4",
+        "allTimePeak": 75689,
         "done": false
     },
     {
         "appid": 2357570,
         "name": "Overwatch\u00ae 2",
         "allTimePeak": 75608,
+        "done": true
+    },
+    {
+        "appid": 632360,
+        "name": "Risk of Rain 2",
+        "allTimePeak": 75406,
+        "done": false
+    },
+    {
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "allTimePeak": 74227,
+        "done": false
+    },
+    {
+        "appid": 1466860,
+        "name": "Age of Empires IV: Anniversary Edition",
+        "allTimePeak": 73928,
         "done": false
     },
     {
         "appid": 4000,
         "name": "Garry's Mod",
         "allTimePeak": 73863,
+        "done": true
+    },
+    {
+        "appid": 1593500,
+        "name": "God of War",
+        "allTimePeak": 73529,
         "done": false
     },
     {
         "appid": 221100,
         "name": "DayZ",
         "allTimePeak": 73418,
+        "done": true
+    },
+    {
+        "appid": 1151340,
+        "name": "Fallout 76",
+        "allTimePeak": 73368,
+        "done": false
+    },
+    {
+        "appid": 482730,
+        "name": "Football Manager 2017",
+        "allTimePeak": 72824,
+        "done": false
+    },
+    {
+        "appid": 2479810,
+        "name": "Gray Zone Warfare",
+        "allTimePeak": 72548,
+        "done": false
+    },
+    {
+        "appid": 838350,
+        "name": "\u592a\u543e\u7ed8\u5377 The Scroll Of Taiwu",
+        "allTimePeak": 72533,
+        "done": false
+    },
+    {
+        "appid": 572600,
+        "name": "For Honor Open Beta",
+        "allTimePeak": 72047,
+        "done": false
+    },
+    {
+        "appid": 624090,
+        "name": "Football Manager 2018",
+        "allTimePeak": 71575,
+        "done": false
+    },
+    {
+        "appid": 202990,
+        "name": "Call of Duty: Black Ops II - Multiplayer",
+        "allTimePeak": 71228,
         "done": false
     },
     {
         "appid": 250900,
         "name": "The Binding of Isaac: Rebirth",
         "allTimePeak": 70701,
-        "done": false
+        "done": true
     },
     {
         "appid": 1364780,
         "name": "Street Fighter\u2122 6",
         "allTimePeak": 70573,
+        "done": true
+    },
+    {
+        "appid": 200510,
+        "name": "XCOM: Enemy Unknown",
+        "allTimePeak": 70568,
+        "done": false
+    },
+    {
+        "appid": 63380,
+        "name": "Sniper Elite V2",
+        "allTimePeak": 70456,
+        "done": false
+    },
+    {
+        "appid": 529340,
+        "name": "Victoria 3",
+        "allTimePeak": 70100,
+        "done": false
+    },
+    {
+        "appid": 232090,
+        "name": "Killing Floor 2",
+        "allTimePeak": 69987,
         "done": false
     },
     {
         "appid": 489830,
         "name": "The Elder Scrolls V: Skyrim Special Edition",
         "allTimePeak": 69906,
-        "done": false
+        "done": true
     },
     {
         "appid": 227300,
         "name": "Euro Truck Simulator 2",
         "allTimePeak": 69754,
+        "done": true
+    },
+    {
+        "appid": 2078890,
+        "name": "Dark and Darker Playtest",
+        "allTimePeak": 69533,
         "done": false
     },
     {
         "appid": 281990,
         "name": "Stellaris",
         "allTimePeak": 68602,
-        "done": false
+        "done": true
     },
     {
         "appid": 513710,
         "name": "SCUM",
         "allTimePeak": 68322,
+        "done": true
+    },
+    {
+        "appid": 261640,
+        "name": "Borderlands: The Pre-Sequel",
+        "allTimePeak": 68238,
+        "done": false
+    },
+    {
+        "appid": 356190,
+        "name": "Middle-earth\u2122: Shadow of War\u2122",
+        "allTimePeak": 68183,
+        "done": false
+    },
+    {
+        "appid": 270550,
+        "name": "Yet Another Zombie Defense",
+        "allTimePeak": 67959,
         "done": false
     },
     {
         "appid": 1454400,
         "name": "Cookie Clicker",
         "allTimePeak": 67867,
+        "done": true
+    },
+    {
+        "appid": 1774580,
+        "name": "STAR WARS Jedi: Survivor\u2122",
+        "allTimePeak": 67855,
+        "done": false
+    },
+    {
+        "appid": 677620,
+        "name": "Splitgate",
+        "allTimePeak": 67724,
+        "done": false
+    },
+    {
+        "appid": 1172620,
+        "name": "Sea of Thieves",
+        "allTimePeak": 66906,
+        "done": false
+    },
+    {
+        "appid": 1817070,
+        "name": "Marvel\u2019s Spider-Man Remastered",
+        "allTimePeak": 66436,
+        "done": false
+    },
+    {
+        "appid": 414460,
+        "name": "Tom Clancy's The Division - Beta",
+        "allTimePeak": 66254,
+        "done": false
+    },
+    {
+        "appid": 924970,
+        "name": "Back 4 Blood",
+        "allTimePeak": 65987,
+        "done": false
+    },
+    {
+        "appid": 363970,
+        "name": "Clicker Heroes",
+        "allTimePeak": 65882,
         "done": false
     },
     {
         "appid": 108600,
         "name": "Project Zomboid",
         "allTimePeak": 65505,
+        "done": true
+    },
+    {
+        "appid": 2322560,
+        "name": "\u5b8c\u86cb\uff01\u6211\u88ab\u7f8e\u5973\u5305\u56f4\u4e86\uff01",
+        "allTimePeak": 65435,
+        "done": false
+    },
+    {
+        "appid": 8870,
+        "name": "BioShock Infinite",
+        "allTimePeak": 65332,
+        "done": false
+    },
+    {
+        "appid": 368230,
+        "name": "Kingdom: Classic",
+        "allTimePeak": 64944,
+        "done": false
+    },
+    {
+        "appid": 311210,
+        "name": "Call of Duty: Black Ops III",
+        "allTimePeak": 63681,
+        "done": false
+    },
+    {
+        "appid": 755790,
+        "name": "Ring of Elysium",
+        "allTimePeak": 63435,
+        "done": false
+    },
+    {
+        "appid": 42700,
+        "name": "Call of Duty: Black Ops",
+        "allTimePeak": 63343,
+        "done": false
+    },
+    {
+        "appid": 1332010,
+        "name": "Stray",
+        "allTimePeak": 62963,
+        "done": false
+    },
+    {
+        "appid": 209670,
+        "name": "Cortex Command",
+        "allTimePeak": 62839,
         "done": false
     },
     {
         "appid": 294100,
         "name": "RimWorld",
         "allTimePeak": 62257,
+        "done": true
+    },
+    {
+        "appid": 812140,
+        "name": "Assassin's Creed Odyssey",
+        "allTimePeak": 62069,
+        "done": false
+    },
+    {
+        "appid": 1250410,
+        "name": "Microsoft Flight Simulator",
+        "allTimePeak": 61829,
+        "done": false
+    },
+    {
+        "appid": 1313140,
+        "name": "Cult of the Lamb",
+        "allTimePeak": 61780,
+        "done": false
+    },
+    {
+        "appid": 219990,
+        "name": "Grim Dawn",
+        "allTimePeak": 61458,
+        "done": false
+    },
+    {
+        "appid": 2429660,
+        "name": "Throne and Liberty - Open Beta",
+        "allTimePeak": 61154,
+        "done": false
+    },
+    {
+        "appid": 444690,
+        "name": "TRAPPED",
+        "allTimePeak": 61109,
+        "done": false
+    },
+    {
+        "appid": 444090,
+        "name": "Paladins",
+        "allTimePeak": 60743,
+        "done": false
+    },
+    {
+        "appid": 583950,
+        "name": "Artifact Classic",
+        "allTimePeak": 60646,
+        "done": false
+    },
+    {
+        "appid": 630,
+        "name": "Alien Swarm",
+        "allTimePeak": 60467,
+        "done": false
+    },
+    {
+        "appid": 582660,
+        "name": "Black Desert",
+        "allTimePeak": 60395,
+        "done": false
+    },
+    {
+        "appid": 255710,
+        "name": "Cities: Skylines",
+        "allTimePeak": 60386,
+        "done": false
+    },
+    {
+        "appid": 648350,
+        "name": "Jurassic World Evolution",
+        "allTimePeak": 60296,
+        "done": false
+    },
+    {
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "allTimePeak": 60293,
+        "done": false
+    },
+    {
+        "appid": 740130,
+        "name": "Tales of Arise",
+        "allTimePeak": 60274,
+        "done": false
+    },
+    {
+        "appid": 629760,
+        "name": "MORDHAU",
+        "allTimePeak": 60204,
+        "done": false
+    },
+    {
+        "appid": 594650,
+        "name": "Hunt: Showdown 1896",
+        "allTimePeak": 60124,
+        "done": false
+    },
+    {
+        "appid": 1328670,
+        "name": "Mass Effect\u2122 Legendary Edition",
+        "allTimePeak": 59817,
+        "done": false
+    },
+    {
+        "appid": 1366540,
+        "name": "Dyson Sphere Program",
+        "allTimePeak": 59815,
+        "done": false
+    },
+    {
+        "appid": 1056640,
+        "name": "Phantasy Star Online 2 New Genesis",
+        "allTimePeak": 59558,
+        "done": false
+    },
+    {
+        "appid": 787860,
+        "name": "Farming Simulator 19",
+        "allTimePeak": 59466,
+        "done": false
+    },
+    {
+        "appid": 1919590,
+        "name": "NBA 2K23",
+        "allTimePeak": 59006,
+        "done": false
+    },
+    {
+        "appid": 304050,
+        "name": "Trove",
+        "allTimePeak": 58949,
+        "done": false
+    },
+    {
+        "appid": 834910,
+        "name": "ATLAS",
+        "allTimePeak": 58939,
+        "done": false
+    },
+    {
+        "appid": 2285240,
+        "name": "Wo Long: Fallen Dynasty Complete Edition Demo",
+        "allTimePeak": 57500,
+        "done": false
+    },
+    {
+        "appid": 813000,
+        "name": "PUBG: Experimental Server",
+        "allTimePeak": 57414,
         "done": false
     },
     {
         "appid": 2016590,
         "name": "Dark and Darker",
         "allTimePeak": 57164,
+        "done": true
+    },
+    {
+        "appid": 2321470,
+        "name": "Deep Rock Galactic: Survivor",
+        "allTimePeak": 56943,
+        "done": false
+    },
+    {
+        "appid": 1816670,
+        "name": "GUNDAM EVOLUTION",
+        "allTimePeak": 56911,
+        "done": false
+    },
+    {
+        "appid": 107410,
+        "name": "Arma 3",
+        "allTimePeak": 56679,
+        "done": false
+    },
+    {
+        "appid": 444200,
+        "name": "World of Tanks Blitz",
+        "allTimePeak": 56669,
+        "done": false
+    },
+    {
+        "appid": 476620,
+        "name": "Call of Duty: WWII - Multiplayer",
+        "allTimePeak": 56627,
+        "done": false
+    },
+    {
+        "appid": 1151640,
+        "name": "Horizon Zero Dawn\u2122 Complete Edition",
+        "allTimePeak": 56557,
+        "done": false
+    },
+    {
+        "appid": 28050,
+        "name": "Deus Ex: Human Revolution",
+        "allTimePeak": 56010,
+        "done": false
+    },
+    {
+        "appid": 646910,
+        "name": "The Crew 2",
+        "allTimePeak": 55907,
         "done": false
     },
     {
         "appid": 2344520,
         "name": "Diablo\u00ae IV",
         "allTimePeak": 55561,
+        "done": true
+    },
+    {
+        "appid": 1435990,
+        "name": "OUTRIDERS Demo",
+        "allTimePeak": 55351,
+        "done": false
+    },
+    {
+        "appid": 1124300,
+        "name": "HUMANKIND\u2122",
+        "allTimePeak": 55284,
+        "done": false
+    },
+    {
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "allTimePeak": 55174,
+        "done": false
+    },
+    {
+        "appid": 597820,
+        "name": "BIOMUTANT",
+        "allTimePeak": 55048,
+        "done": false
+    },
+    {
+        "appid": 200710,
+        "name": "Torchlight II",
+        "allTimePeak": 54821,
+        "done": false
+    },
+    {
+        "appid": 1619990,
+        "name": "SUPER PEOPLE Testing Grounds",
+        "allTimePeak": 54670,
+        "done": false
+    },
+    {
+        "appid": 1145360,
+        "name": "Hades",
+        "allTimePeak": 54240,
+        "done": false
+    },
+    {
+        "appid": 548430,
+        "name": "Deep Rock Galactic",
+        "allTimePeak": 54160,
+        "done": false
+    },
+    {
+        "appid": 34330,
+        "name": "Total War: SHOGUN 2",
+        "allTimePeak": 54115,
+        "done": false
+    },
+    {
+        "appid": 436150,
+        "name": "Governor of Poker 3",
+        "allTimePeak": 53943,
+        "done": false
+    },
+    {
+        "appid": 960090,
+        "name": "Bloons TD 6",
+        "allTimePeak": 53943,
+        "done": false
+    },
+    {
+        "appid": 1238840,
+        "name": "Battlefield 1 \u2122",
+        "allTimePeak": 53714,
+        "done": false
+    },
+    {
+        "appid": 372000,
+        "name": "Tree of Savior (English Ver.)",
+        "allTimePeak": 53554,
+        "done": false
+    },
+    {
+        "appid": 392110,
+        "name": "ENDLESS\u2122 Space 2",
+        "allTimePeak": 53435,
+        "done": false
+    },
+    {
+        "appid": 440900,
+        "name": "Conan Exiles",
+        "allTimePeak": 53402,
+        "done": false
+    },
+    {
+        "appid": 245550,
+        "name": "Free to Play",
+        "allTimePeak": 53002,
         "done": false
     },
     {
         "appid": 438100,
         "name": "VRChat",
         "allTimePeak": 52956,
-        "done": false
+        "done": true
     },
     {
         "appid": 1049590,
         "name": "Eternal Return",
         "allTimePeak": 52853,
+        "done": true
+    },
+    {
+        "appid": 2936120,
+        "name": "Marvel Rivals Playtest",
+        "allTimePeak": 52671,
+        "done": false
+    },
+    {
+        "appid": 1149460,
+        "name": "Icarus",
+        "allTimePeak": 52501,
+        "done": false
+    },
+    {
+        "appid": 337000,
+        "name": "Deus Ex: Mankind Divided\u2122",
+        "allTimePeak": 52485,
+        "done": false
+    },
+    {
+        "appid": 236870,
+        "name": "HITMAN\u2122",
+        "allTimePeak": 51650,
+        "done": false
+    },
+    {
+        "appid": 3016800,
+        "name": "Mecha BREAK Playtest",
+        "allTimePeak": 51382,
+        "done": false
+    },
+    {
+        "appid": 2670630,
+        "name": "Supermarket Simulator",
+        "allTimePeak": 51363,
         "done": false
     },
     {
         "appid": 1366800,
         "name": "Crosshair X",
         "allTimePeak": 51280,
+        "done": true
+    },
+    {
+        "appid": 264710,
+        "name": "Subnautica",
+        "allTimePeak": 51156,
+        "done": false
+    },
+    {
+        "appid": 1282730,
+        "name": "Loop Hero",
+        "allTimePeak": 51156,
+        "done": false
+    },
+    {
+        "appid": 273350,
+        "name": "Evolve Stage 2",
+        "allTimePeak": 51127,
+        "done": false
+    },
+    {
+        "appid": 22380,
+        "name": "Fallout: New Vegas",
+        "allTimePeak": 51038,
         "done": false
     },
     {
         "appid": 3070070,
         "name": "TCG Card Shop Simulator",
         "allTimePeak": 50450,
+        "done": true
+    },
+    {
+        "appid": 24240,
+        "name": "PAYDAY: The Heist",
+        "allTimePeak": 50316,
+        "done": false
+    },
+    {
+        "appid": 1778820,
+        "name": "TEKKEN 8",
+        "allTimePeak": 49977,
+        "done": false
+    },
+    {
+        "appid": 306130,
+        "name": "The Elder Scrolls Online",
+        "allTimePeak": 49234,
+        "done": false
+    },
+    {
+        "appid": 241930,
+        "name": "Middle-earth\u2122: Shadow of Mordor\u2122",
+        "allTimePeak": 48668,
         "done": false
     },
     {
         "appid": 1973530,
         "name": "Limbus Company",
         "allTimePeak": 48398,
+        "done": true
+    },
+    {
+        "appid": 1089350,
+        "name": "NBA 2K20",
+        "allTimePeak": 48375,
+        "done": false
+    },
+    {
+        "appid": 617290,
+        "name": "Remnant: From the Ashes",
+        "allTimePeak": 48289,
         "done": false
     },
     {
         "appid": 236850,
         "name": "Europa Universalis IV",
         "allTimePeak": 48165,
+        "done": true
+    },
+    {
+        "appid": 243470,
+        "name": "Watch_Dogs",
+        "allTimePeak": 47887,
+        "done": false
+    },
+    {
+        "appid": 2709570,
+        "name": "Supermarket Together",
+        "allTimePeak": 47836,
+        "done": false
+    },
+    {
+        "appid": 360430,
+        "name": "Mafia III: Definitive Edition",
+        "allTimePeak": 47822,
+        "done": false
+    },
+    {
+        "appid": 1371580,
+        "name": "Myth of Empires",
+        "allTimePeak": 47654,
         "done": false
     },
     {
         "appid": 1281930,
         "name": "tModLoader",
         "allTimePeak": 47602,
+        "done": true
+    },
+    {
+        "appid": 1928980,
+        "name": "Nightingale",
+        "allTimePeak": 47569,
+        "done": false
+    },
+    {
+        "appid": 1190340,
+        "name": "SUPER PEOPLE 2",
+        "allTimePeak": 47392,
+        "done": false
+    },
+    {
+        "appid": 2646460,
+        "name": "Soulmask",
+        "allTimePeak": 46833,
+        "done": false
+    },
+    {
+        "appid": 1184370,
+        "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+        "allTimePeak": 46724,
+        "done": false
+    },
+    {
+        "appid": 1644960,
+        "name": "NBA 2K22",
+        "allTimePeak": 46661,
+        "done": false
+    },
+    {
+        "appid": 387990,
+        "name": "Scrap Mechanic",
+        "allTimePeak": 46643,
+        "done": false
+    },
+    {
+        "appid": 1607250,
+        "name": "MY HERO ULTRA RUMBLE",
+        "allTimePeak": 46591,
+        "done": false
+    },
+    {
+        "appid": 1172380,
+        "name": "STAR WARS Jedi: Fallen Order\u2122 ",
+        "allTimePeak": 46550,
+        "done": false
+    },
+    {
+        "appid": 1621690,
+        "name": "Core Keeper",
+        "allTimePeak": 46465,
+        "done": false
+    },
+    {
+        "appid": 42680,
+        "name": "Call of Duty\u00ae: Modern Warfare\u00ae 3 (2011)",
+        "allTimePeak": 46327,
+        "done": false
+    },
+    {
+        "appid": 2072450,
+        "name": "Like a Dragon: Infinite Wealth",
+        "allTimePeak": 46161,
+        "done": false
+    },
+    {
+        "appid": 2420510,
+        "name": "HoloCure - Save the Fans!",
+        "allTimePeak": 46155,
+        "done": false
+    },
+    {
+        "appid": 1549250,
+        "name": "Undecember",
+        "allTimePeak": 46103,
+        "done": false
+    },
+    {
+        "appid": 239140,
+        "name": "Dying Light",
+        "allTimePeak": 45876,
+        "done": false
+    },
+    {
+        "appid": 460930,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands",
+        "allTimePeak": 45704,
+        "done": false
+    },
+    {
+        "appid": 1832640,
+        "name": "Mirror 2: Project X",
+        "allTimePeak": 45657,
+        "done": false
+    },
+    {
+        "appid": 2156210,
+        "name": "Warhammer 40,000: Darktide Closed Beta",
+        "allTimePeak": 45576,
+        "done": false
+    },
+    {
+        "appid": 2186680,
+        "name": "Warhammer 40,000: Rogue Trader",
+        "allTimePeak": 45405,
+        "done": false
+    },
+    {
+        "appid": 1820120,
+        "name": "Nobody - The Turnaround Demo",
+        "allTimePeak": 45157,
+        "done": false
+    },
+    {
+        "appid": 504370,
+        "name": "Battlerite",
+        "allTimePeak": 45145,
+        "done": false
+    },
+    {
+        "appid": 1337520,
+        "name": "Risk of Rain Returns",
+        "allTimePeak": 45141,
+        "done": false
+    },
+    {
+        "appid": 15700,
+        "name": "Oddworld: Abe's Oddysee",
+        "allTimePeak": 45049,
+        "done": false
+    },
+    {
+        "appid": 2161700,
+        "name": "Persona 3 Reload",
+        "allTimePeak": 45002,
+        "done": false
+    },
+    {
+        "appid": 1478540,
+        "name": "Bless Unleashed - Beta Test",
+        "allTimePeak": 44799,
+        "done": false
+    },
+    {
+        "appid": 1296830,
+        "name": "\u6696\u96ea Warm Snow",
+        "allTimePeak": 44702,
+        "done": false
+    },
+    {
+        "appid": 391220,
+        "name": "Rise of the Tomb Raider",
+        "allTimePeak": 44588,
+        "done": false
+    },
+    {
+        "appid": 1313860,
+        "name": "EA SPORTS\u2122 FIFA 21 ",
+        "allTimePeak": 44388,
+        "done": false
+    },
+    {
+        "appid": 678950,
+        "name": "DRAGON BALL FighterZ",
+        "allTimePeak": 44303,
+        "done": false
+    },
+    {
+        "appid": 379720,
+        "name": "DOOM",
+        "allTimePeak": 44271,
+        "done": false
+    },
+    {
+        "appid": 1677740,
+        "name": "Stumble Guys",
+        "allTimePeak": 43705,
+        "done": false
+    },
+    {
+        "appid": 368420,
+        "name": "Mirage: Arcane Warfare",
+        "allTimePeak": 43152,
+        "done": false
+    },
+    {
+        "appid": 1501750,
+        "name": "Lords of the Fallen",
+        "allTimePeak": 43075,
+        "done": false
+    },
+    {
+        "appid": 1669000,
+        "name": "Age of Wonders 4",
+        "allTimePeak": 42877,
+        "done": false
+    },
+    {
+        "appid": 546560,
+        "name": "Half-Life: Alyx",
+        "allTimePeak": 42858,
+        "done": false
+    },
+    {
+        "appid": 588430,
+        "name": "Fallout Shelter",
+        "allTimePeak": 42656,
+        "done": false
+    },
+    {
+        "appid": 1213210,
+        "name": "Command & Conquer\u2122 Remastered Collection",
+        "allTimePeak": 42587,
+        "done": false
+    },
+    {
+        "appid": 560380,
+        "name": "MapleStory 2",
+        "allTimePeak": 42467,
+        "done": false
+    },
+    {
+        "appid": 206420,
+        "name": "Saints Row IV",
+        "allTimePeak": 42270,
+        "done": false
+    },
+    {
+        "appid": 848450,
+        "name": "Subnautica: Below Zero",
+        "allTimePeak": 42115,
+        "done": false
+    },
+    {
+        "appid": 859580,
+        "name": "Imperator: Rome",
+        "allTimePeak": 41945,
+        "done": false
+    },
+    {
+        "appid": 291650,
+        "name": "Pillars of Eternity",
+        "allTimePeak": 41906,
+        "done": false
+    },
+    {
+        "appid": 473650,
+        "name": "Withering Kingdom: Arcane War",
+        "allTimePeak": 41833,
+        "done": false
+    },
+    {
+        "appid": 1483870,
+        "name": "Draw & Guess",
+        "allTimePeak": 41766,
+        "done": false
+    },
+    {
+        "appid": 113020,
+        "name": "Monaco",
+        "allTimePeak": 41750,
+        "done": false
+    },
+    {
+        "appid": 582160,
+        "name": "Assassin's Creed Origins",
+        "allTimePeak": 41551,
+        "done": false
+    },
+    {
+        "appid": 1928420,
+        "name": "Farlight 84",
+        "allTimePeak": 41396,
+        "done": false
+    },
+    {
+        "appid": 1325200,
+        "name": "Nioh 2 \u2013 The Complete Edition",
+        "allTimePeak": 41325,
+        "done": false
+    },
+    {
+        "appid": 208140,
+        "name": "ENDLESS\u2122 Space - Definitive Edition",
+        "allTimePeak": 41263,
         "done": false
     },
     {
         "appid": 2878980,
         "name": "NBA 2K25",
         "allTimePeak": 40856,
+        "done": true
+    },
+    {
+        "appid": 868270,
+        "name": "The Cycle: Frontier",
+        "allTimePeak": 40854,
+        "done": false
+    },
+    {
+        "appid": 321040,
+        "name": "DiRT 3 Complete Edition",
+        "allTimePeak": 40832,
+        "done": false
+    },
+    {
+        "appid": 513780,
+        "name": "Turbo Pug DX",
+        "allTimePeak": 40590,
+        "done": false
+    },
+    {
+        "appid": 2420110,
+        "name": "Horizon Forbidden West\u2122 Complete Edition",
+        "allTimePeak": 40462,
         "done": false
     },
     {
         "appid": 3047030,
         "name": "Tapple",
         "allTimePeak": 40421,
+        "done": true
+    },
+    {
+        "appid": 295110,
+        "name": "Just Survive",
+        "allTimePeak": 40335,
+        "done": false
+    },
+    {
+        "appid": 280640,
+        "name": "Dark Shadows - Army of Evil",
+        "allTimePeak": 39883,
         "done": false
     },
     {
         "appid": 2951290,
         "name": "Delta Force Demo",
         "allTimePeak": 39770,
+        "done": true
+    },
+    {
+        "appid": 745920,
+        "name": "Temtem",
+        "allTimePeak": 39572,
+        "done": false
+    },
+    {
+        "appid": 2784840,
+        "name": "EGG",
+        "allTimePeak": 39524,
+        "done": false
+    },
+    {
+        "appid": 2448970,
+        "name": "Dungeonborne",
+        "allTimePeak": 39325,
+        "done": false
+    },
+    {
+        "appid": 1329410,
+        "name": "\u96c0\u9b42\u9ebb\u5c06(MahjongSoul)",
+        "allTimePeak": 39075,
+        "done": false
+    },
+    {
+        "appid": 576880,
+        "name": "Blackwater Bayou VR",
+        "allTimePeak": 39010,
+        "done": false
+    },
+    {
+        "appid": 774861,
+        "name": "Project Winter",
+        "allTimePeak": 38794,
         "done": false
     },
     {
         "appid": 813780,
         "name": "Age of Empires II: Definitive Edition",
         "allTimePeak": 38725,
+        "done": true
+    },
+    {
+        "appid": 2167580,
+        "name": "Summoners War: Chronicles",
+        "allTimePeak": 38641,
+        "done": false
+    },
+    {
+        "appid": 703080,
+        "name": "Planet Zoo",
+        "allTimePeak": 38630,
         "done": false
     },
     {
         "appid": 393380,
         "name": "Squad",
         "allTimePeak": 38573,
+        "done": true
+    },
+    {
+        "appid": 668580,
+        "name": "Atomic Heart",
+        "allTimePeak": 38469,
+        "done": false
+    },
+    {
+        "appid": 1818450,
+        "name": "STALCRAFT: X",
+        "allTimePeak": 38437,
+        "done": false
+    },
+    {
+        "appid": 750920,
+        "name": "Shadow of the Tomb Raider",
+        "allTimePeak": 38268,
+        "done": false
+    },
+    {
+        "appid": 1971870,
+        "name": "Mortal Kombat 1",
+        "allTimePeak": 38129,
+        "done": false
+    },
+    {
+        "appid": 1372880,
+        "name": "The Day Before",
+        "allTimePeak": 38104,
+        "done": false
+    },
+    {
+        "appid": 2379780,
+        "name": "Balatro",
+        "allTimePeak": 37977,
+        "done": false
+    },
+    {
+        "appid": 43160,
+        "name": "Metro: Last Light Complete Edition",
+        "allTimePeak": 37815,
+        "done": false
+    },
+    {
+        "appid": 209170,
+        "name": "Call of Duty: Ghosts - Multiplayer",
+        "allTimePeak": 37268,
+        "done": false
+    },
+    {
+        "appid": 2349820,
+        "name": "Hero's Land",
+        "allTimePeak": 37249,
+        "done": false
+    },
+    {
+        "appid": 286160,
+        "name": "Tabletop Simulator",
+        "allTimePeak": 37198,
+        "done": false
+    },
+    {
+        "appid": 700600,
+        "name": "Evil Genius 2",
+        "allTimePeak": 37117,
+        "done": false
+    },
+    {
+        "appid": 1304930,
+        "name": "The Outlast Trials",
+        "allTimePeak": 36689,
+        "done": false
+    },
+    {
+        "appid": 1030840,
+        "name": "Mafia: Definitive Edition",
+        "allTimePeak": 36679,
+        "done": false
+    },
+    {
+        "appid": 1677280,
+        "name": "Company of Heroes 3",
+        "allTimePeak": 36646,
+        "done": false
+    },
+    {
+        "appid": 1401390,
+        "name": "Party Animals Playtest",
+        "allTimePeak": 36571,
+        "done": false
+    },
+    {
+        "appid": 2427700,
+        "name": "Backpack Battles",
+        "allTimePeak": 36557,
+        "done": false
+    },
+    {
+        "appid": 1888930,
+        "name": "The Last of Us\u2122 Part I",
+        "allTimePeak": 36496,
+        "done": false
+    },
+    {
+        "appid": 1222730,
+        "name": "STAR WARS\u2122: Squadrons",
+        "allTimePeak": 36492,
+        "done": false
+    },
+    {
+        "appid": 1504570,
+        "name": "\u592a\u8352\u521d\u5883",
+        "allTimePeak": 36315,
+        "done": false
+    },
+    {
+        "appid": 2231770,
+        "name": "Resident Evil 4 Chainsaw Demo",
+        "allTimePeak": 36310,
+        "done": false
+    },
+    {
+        "appid": 1371980,
+        "name": "No Rest for the Wicked",
+        "allTimePeak": 36276,
+        "done": false
+    },
+    {
+        "appid": 319830,
+        "name": "AX:EL",
+        "allTimePeak": 35956,
+        "done": false
+    },
+    {
+        "appid": 882100,
+        "name": "XCOM: Chimera Squad",
+        "allTimePeak": 35955,
+        "done": false
+    },
+    {
+        "appid": 91310,
+        "name": "Dead Island",
+        "allTimePeak": 35906,
+        "done": false
+    },
+    {
+        "appid": 1527950,
+        "name": "Wartales",
+        "allTimePeak": 35879,
+        "done": false
+    },
+    {
+        "appid": 637090,
+        "name": "BATTLETECH",
+        "allTimePeak": 35767,
+        "done": false
+    },
+    {
+        "appid": 1128000,
+        "name": "Cube World",
+        "allTimePeak": 35622,
+        "done": false
+    },
+    {
+        "appid": 2322010,
+        "name": "God of War Ragnar\u00f6k",
+        "allTimePeak": 35615,
+        "done": false
+    },
+    {
+        "appid": 1601580,
+        "name": "Frostpunk 2",
+        "allTimePeak": 35533,
+        "done": false
+    },
+    {
+        "appid": 1687950,
+        "name": "Persona 5 Royal",
+        "allTimePeak": 35474,
+        "done": false
+    },
+    {
+        "appid": 2478210,
+        "name": "PAYDAY 3 - Beta",
+        "allTimePeak": 35468,
+        "done": false
+    },
+    {
+        "appid": 2394010,
+        "name": "Palworld Dedicated Server",
+        "allTimePeak": 35380,
+        "done": false
+    },
+    {
+        "appid": 1217060,
+        "name": "Gunfire Reborn",
+        "allTimePeak": 35263,
+        "done": false
+    },
+    {
+        "appid": 249050,
+        "name": "Dungeon of the ENDLESS\u2122",
+        "allTimePeak": 35159,
+        "done": false
+    },
+    {
+        "appid": 976310,
+        "name": "Mortal Kombat 11",
+        "allTimePeak": 35147,
+        "done": false
+    },
+    {
+        "appid": 834150,
+        "name": "Glare1more",
+        "allTimePeak": 35059,
+        "done": false
+    },
+    {
+        "appid": 209660,
+        "name": "Call of Duty: Advanced Warfare - Multiplayer",
+        "allTimePeak": 35017,
+        "done": false
+    },
+    {
+        "appid": 34220,
+        "name": "Football Manager 2011",
+        "allTimePeak": 34997,
+        "done": false
+    },
+    {
+        "appid": 1277400,
+        "name": "Monster Hunter Stories 2: Wings of Ruin",
+        "allTimePeak": 34995,
+        "done": false
+    },
+    {
+        "appid": 291550,
+        "name": "Brawlhalla",
+        "allTimePeak": 34816,
+        "done": false
+    },
+    {
+        "appid": 213670,
+        "name": "South Park\u2122: The Stick of Truth\u2122",
+        "allTimePeak": 34811,
+        "done": false
+    },
+    {
+        "appid": 1057090,
+        "name": "Ori and the Will of the Wisps",
+        "allTimePeak": 34807,
         "done": false
     },
     {
         "appid": 427520,
         "name": "Factorio",
         "allTimePeak": 34700,
+        "done": true
+    },
+    {
+        "appid": 681660,
+        "name": "Bless Online",
+        "allTimePeak": 34392,
+        "done": false
+    },
+    {
+        "appid": 2622000,
+        "name": "Astral Party ",
+        "allTimePeak": 34387,
+        "done": false
+    },
+    {
+        "appid": 55230,
+        "name": "Saints Row: The Third",
+        "allTimePeak": 34371,
+        "done": false
+    },
+    {
+        "appid": 1286830,
+        "name": "STAR WARS\u2122: The Old Republic\u2122",
+        "allTimePeak": 34210,
+        "done": false
+    },
+    {
+        "appid": 535930,
+        "name": "Two Point Hospital",
+        "allTimePeak": 34009,
+        "done": false
+    },
+    {
+        "appid": 678960,
+        "name": "CODE VEIN",
+        "allTimePeak": 33895,
+        "done": false
+    },
+    {
+        "appid": 1015520,
+        "name": "Age of Empires IV Ranked Seasons Closed Preview",
+        "allTimePeak": 33858,
+        "done": false
+    },
+    {
+        "appid": 205790,
+        "name": "Dota 2 Test",
+        "allTimePeak": 33726,
+        "done": false
+    },
+    {
+        "appid": 70,
+        "name": "Half-Life",
+        "allTimePeak": 33471,
+        "done": false
+    },
+    {
+        "appid": 234140,
+        "name": "Mad Max",
+        "allTimePeak": 33356,
+        "done": false
+    },
+    {
+        "appid": 903950,
+        "name": "Last Oasis",
+        "allTimePeak": 33287,
+        "done": false
+    },
+    {
+        "appid": 584210,
+        "name": "Tom Clancy's Ghost Recon Wildlands Open Beta",
+        "allTimePeak": 33114,
         "done": false
     },
     {
         "appid": 646570,
         "name": "Slay the Spire",
         "allTimePeak": 33086,
+        "done": true
+    },
+    {
+        "appid": 48700,
+        "name": "Mount & Blade: Warband",
+        "allTimePeak": 33054,
+        "done": false
+    },
+    {
+        "appid": 1952120,
+        "name": "Street Fighter\u2122 6 - Open Beta",
+        "allTimePeak": 32787,
+        "done": false
+    },
+    {
+        "appid": 80,
+        "name": "Counter-Strike: Condition Zero",
+        "allTimePeak": 32748,
+        "done": false
+    },
+    {
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "allTimePeak": 32685,
+        "done": false
+    },
+    {
+        "appid": 736190,
+        "name": "Chinese Parents",
+        "allTimePeak": 32593,
+        "done": false
+    },
+    {
+        "appid": 1531430,
+        "name": "Paragon: The Overprime",
+        "allTimePeak": 32524,
+        "done": false
+    },
+    {
+        "appid": 1190460,
+        "name": "DEATH STRANDING",
+        "allTimePeak": 32515,
+        "done": false
+    },
+    {
+        "appid": 1611740,
+        "name": "BattleBit Remastered Playtest",
+        "allTimePeak": 32383,
+        "done": false
+    },
+    {
+        "appid": 447020,
+        "name": "Farming Simulator 17",
+        "allTimePeak": 32313,
+        "done": false
+    },
+    {
+        "appid": 1942280,
+        "name": "Brotato",
+        "allTimePeak": 32216,
+        "done": false
+    },
+    {
+        "appid": 466660,
+        "name": "Stash",
+        "allTimePeak": 32094,
+        "done": false
+    },
+    {
+        "appid": 1035930,
+        "name": "Nyasha",
+        "allTimePeak": 32033,
+        "done": false
+    },
+    {
+        "appid": 388520,
+        "name": "Call of Duty: Black Ops III Beta",
+        "allTimePeak": 32020,
+        "done": false
+    },
+    {
+        "appid": 962130,
+        "name": "Grounded",
+        "allTimePeak": 32012,
+        "done": false
+    },
+    {
+        "appid": 1225330,
+        "name": "NBA 2K21",
+        "allTimePeak": 31826,
+        "done": false
+    },
+    {
+        "appid": 386360,
+        "name": "SMITE",
+        "allTimePeak": 31169,
+        "done": false
+    },
+    {
+        "appid": 997070,
+        "name": "Marvel's Avengers - The Definitive Edition",
+        "allTimePeak": 31165,
+        "done": false
+    },
+    {
+        "appid": 1384160,
+        "name": "GUILTY GEAR -STRIVE-",
+        "allTimePeak": 31156,
+        "done": false
+    },
+    {
+        "appid": 1129580,
+        "name": "Medieval Dynasty",
+        "allTimePeak": 31057,
+        "done": false
+    },
+    {
+        "appid": 1669980,
+        "name": "Volcano Princess",
+        "allTimePeak": 31057,
+        "done": false
+    },
+    {
+        "appid": 2641470,
+        "name": "Spectre Divide",
+        "allTimePeak": 30971,
+        "done": false
+    },
+    {
+        "appid": 858820,
+        "name": "Tribes of Midgard",
+        "allTimePeak": 30930,
+        "done": false
+    },
+    {
+        "appid": 1693980,
+        "name": "Dead Space",
+        "allTimePeak": 30925,
+        "done": false
+    },
+    {
+        "appid": 252150,
+        "name": "Grimm",
+        "allTimePeak": 30886,
+        "done": false
+    },
+    {
+        "appid": 308040,
+        "name": "Back to Bed",
+        "allTimePeak": 30771,
+        "done": false
+    },
+    {
+        "appid": 500,
+        "name": "Left 4 Dead",
+        "allTimePeak": 30616,
+        "done": false
+    },
+    {
+        "appid": 2338770,
+        "name": "NBA 2K24",
+        "allTimePeak": 30363,
+        "done": false
+    },
+    {
+        "appid": 1840560,
+        "name": "Paragon: The Overprime Final Test",
+        "allTimePeak": 30218,
+        "done": false
+    },
+    {
+        "appid": 1113000,
+        "name": "Persona 4 Golden",
+        "allTimePeak": 29984,
+        "done": false
+    },
+    {
+        "appid": 511470,
+        "name": "Glass Masquerade",
+        "allTimePeak": 29689,
+        "done": false
+    },
+    {
+        "appid": 218230,
+        "name": "PlanetSide 2",
+        "allTimePeak": 29676,
+        "done": false
+    },
+    {
+        "appid": 637650,
+        "name": "FINAL FANTASY XV WINDOWS EDITION",
+        "allTimePeak": 29498,
+        "done": false
+    },
+    {
+        "appid": 760160,
+        "name": "Vampire: The Masquerade - Bloodhunt",
+        "allTimePeak": 29475,
+        "done": false
+    },
+    {
+        "appid": 50130,
+        "name": "Mafia II (Classic)",
+        "allTimePeak": 29474,
+        "done": false
+    },
+    {
+        "appid": 823130,
+        "name": "Totally Accurate Battlegrounds",
+        "allTimePeak": 29438,
+        "done": false
+    },
+    {
+        "appid": 208090,
+        "name": "Loadout",
+        "allTimePeak": 29424,
+        "done": false
+    },
+    {
+        "appid": 323190,
+        "name": "Frostpunk",
+        "allTimePeak": 29361,
+        "done": false
+    },
+    {
+        "appid": 841370,
+        "name": "NBA 2K19",
+        "allTimePeak": 29202,
         "done": false
     },
     {
         "appid": 284160,
         "name": "BeamNG.drive",
         "allTimePeak": 29041,
+        "done": true
+    },
+    {
+        "appid": 587790,
+        "name": "Deadly Animal Duel",
+        "allTimePeak": 28967,
+        "done": false
+    },
+    {
+        "appid": 1948980,
+        "name": "\u5927\u4fa0\u7acb\u5fd7\u4f20\uff1a\u78a7\u8840\u4e39\u5fc3",
+        "allTimePeak": 28936,
+        "done": false
+    },
+    {
+        "appid": 359320,
+        "name": "Elite Dangerous",
+        "allTimePeak": 28923,
+        "done": false
+    },
+    {
+        "appid": 1113560,
+        "name": "NieR Replicant ver.1.22474487139...",
+        "allTimePeak": 28684,
+        "done": false
+    },
+    {
+        "appid": 1079310,
+        "name": "Elemental Girls",
+        "allTimePeak": 28636,
+        "done": false
+    },
+    {
+        "appid": 2015270,
+        "name": "Rotwood",
+        "allTimePeak": 28595,
+        "done": false
+    },
+    {
+        "appid": 1676840,
+        "name": "For The King II",
+        "allTimePeak": 28528,
+        "done": false
+    },
+    {
+        "appid": 1938010,
+        "name": "WILD HEARTS\u2122",
+        "allTimePeak": 28511,
+        "done": false
+    },
+    {
+        "appid": 1284190,
+        "name": "The Planet Crafter",
+        "allTimePeak": 28416,
+        "done": false
+    },
+    {
+        "appid": 975370,
+        "name": "Dwarf Fortress",
+        "allTimePeak": 28340,
+        "done": false
+    },
+    {
+        "appid": 1229490,
+        "name": "ULTRAKILL",
+        "allTimePeak": 28076,
+        "done": false
+    },
+    {
+        "appid": 221380,
+        "name": "Age of Empires II (2013)",
+        "allTimePeak": 27927,
+        "done": false
+    },
+    {
+        "appid": 1237970,
+        "name": "Titanfall\u00ae 2",
+        "allTimePeak": 27631,
+        "done": false
+    },
+    {
+        "appid": 10500,
+        "name": "Total War: EMPIRE - Definitive Edition",
+        "allTimePeak": 27559,
+        "done": false
+    },
+    {
+        "appid": 1836450,
+        "name": "Monster Hunter Rise: Sunbreak Demo",
+        "allTimePeak": 27540,
+        "done": false
+    },
+    {
+        "appid": 2515020,
+        "name": "FINAL FANTASY XVI",
+        "allTimePeak": 27508,
+        "done": false
+    },
+    {
+        "appid": 323580,
+        "name": "Jotun: Valhalla Edition",
+        "allTimePeak": 27501,
+        "done": false
+    },
+    {
+        "appid": 457140,
+        "name": "Oxygen Not Included",
+        "allTimePeak": 27486,
+        "done": false
+    },
+    {
+        "appid": 48000,
+        "name": "LIMBO",
+        "allTimePeak": 27466,
+        "done": false
+    },
+    {
+        "appid": 1259420,
+        "name": "Days Gone",
+        "allTimePeak": 27450,
+        "done": false
+    },
+    {
+        "appid": 208650,
+        "name": "Batman\u2122: Arkham Knight",
+        "allTimePeak": 27406,
+        "done": false
+    },
+    {
+        "appid": 367500,
+        "name": "Dragon's Dogma: Dark Arisen",
+        "allTimePeak": 27368,
+        "done": false
+    },
+    {
+        "appid": 44350,
+        "name": "GRID 2",
+        "allTimePeak": 27339,
+        "done": false
+    },
+    {
+        "appid": 1307550,
+        "name": "Craftopia",
+        "allTimePeak": 27246,
+        "done": false
+    },
+    {
+        "appid": 761890,
+        "name": "Albion Online",
+        "allTimePeak": 27227,
+        "done": false
+    },
+    {
+        "appid": 576120,
+        "name": "Purgatory II",
+        "allTimePeak": 27211,
+        "done": false
+    },
+    {
+        "appid": 1672500,
+        "name": "GUNDAM BREAKER 4",
+        "allTimePeak": 27110,
+        "done": false
+    },
+    {
+        "appid": 412210,
+        "name": "Warfront Defenders",
+        "allTimePeak": 27044,
+        "done": false
+    },
+    {
+        "appid": 251410,
+        "name": "Dark Matter",
+        "allTimePeak": 27035,
+        "done": false
+    },
+    {
+        "appid": 692850,
+        "name": "Bloodstained: Ritual of the Night",
+        "allTimePeak": 26934,
+        "done": false
+    },
+    {
+        "appid": 301520,
+        "name": "Robocraft",
+        "allTimePeak": 26725,
+        "done": false
+    },
+    {
+        "appid": 701160,
+        "name": "Kingdom Two Crowns",
+        "allTimePeak": 26623,
+        "done": false
+    },
+    {
+        "appid": 569610,
+        "name": "Distant Space",
+        "allTimePeak": 26557,
+        "done": false
+    },
+    {
+        "appid": 729040,
+        "name": "Borderlands GOTY Enhanced",
+        "allTimePeak": 26446,
+        "done": false
+    },
+    {
+        "appid": 1189490,
+        "name": "\u89c5\u957f\u751f",
+        "allTimePeak": 26379,
+        "done": false
+    },
+    {
+        "appid": 325610,
+        "name": "Total War: ATTILA",
+        "allTimePeak": 26346,
+        "done": false
+    },
+    {
+        "appid": 2080690,
+        "name": "Sunkenland",
+        "allTimePeak": 26154,
+        "done": false
+    },
+    {
+        "appid": 203140,
+        "name": "Hitman: Absolution",
+        "allTimePeak": 26137,
+        "done": false
+    },
+    {
+        "appid": 2218750,
+        "name": "Halls of Torment",
+        "allTimePeak": 26061,
+        "done": false
+    },
+    {
+        "appid": 233130,
+        "name": "Shadow Warrior",
+        "allTimePeak": 25890,
+        "done": false
+    },
+    {
+        "appid": 1934680,
+        "name": "Age of Mythology: Retold",
+        "allTimePeak": 25879,
+        "done": false
+    },
+    {
+        "appid": 851850,
+        "name": "DRAGON BALL Z: KAKAROT",
+        "allTimePeak": 25852,
+        "done": false
+    },
+    {
+        "appid": 954850,
+        "name": "Kerbal Space Program 2",
+        "allTimePeak": 25724,
+        "done": false
+    },
+    {
+        "appid": 285190,
+        "name": "Warhammer 40,000: Dawn of War III",
+        "allTimePeak": 25676,
+        "done": false
+    },
+    {
+        "appid": 1134570,
+        "name": "F1 2021",
+        "allTimePeak": 25575,
+        "done": false
+    },
+    {
+        "appid": 1708520,
+        "name": "F1\u00ae Manager 2022",
+        "allTimePeak": 25575,
+        "done": false
+    },
+    {
+        "appid": 447920,
+        "name": "Drift (Over) Drive",
+        "allTimePeak": 25457,
+        "done": false
+    },
+    {
+        "appid": 577800,
+        "name": "NBA 2K18",
+        "allTimePeak": 25432,
+        "done": false
+    },
+    {
+        "appid": 1367080,
+        "name": "MOBILE SUIT GUNDAM BATTLE OPERATION 2",
+        "allTimePeak": 25422,
+        "done": false
+    },
+    {
+        "appid": 1084160,
+        "name": "Jagged Alliance 3",
+        "allTimePeak": 25366,
+        "done": false
+    },
+    {
+        "appid": 1034140,
+        "name": "Subverse",
+        "allTimePeak": 25318,
+        "done": false
+    },
+    {
+        "appid": 916440,
+        "name": "Anno 1800",
+        "allTimePeak": 25302,
+        "done": false
+    },
+    {
+        "appid": 323370,
+        "name": "TERA",
+        "allTimePeak": 25260,
+        "done": false
+    },
+    {
+        "appid": 1692250,
+        "name": "F1\u00ae 22",
+        "allTimePeak": 25172,
+        "done": false
+    },
+    {
+        "appid": 875210,
+        "name": "\u4e09\u56fd\u7fa4\u82f1\u4f208 Kingdom Heroes 8",
+        "allTimePeak": 25160,
+        "done": false
+    },
+    {
+        "appid": 219640,
+        "name": "Chivalry: Medieval Warfare",
+        "allTimePeak": 25145,
+        "done": false
+    },
+    {
+        "appid": 1057240,
+        "name": "Crucible",
+        "allTimePeak": 25145,
+        "done": false
+    },
+    {
+        "appid": 209000,
+        "name": "Batman\u2122: Arkham Origins",
+        "allTimePeak": 25017,
+        "done": false
+    },
+    {
+        "appid": 2524890,
+        "name": "Pixel Gun 3D: PC Edition",
+        "allTimePeak": 25014,
+        "done": false
+    },
+    {
+        "appid": 1044720,
+        "name": "Farthest Frontier",
+        "allTimePeak": 24910,
+        "done": false
+    },
+    {
+        "appid": 1364020,
+        "name": "Boundary",
+        "allTimePeak": 24840,
+        "done": false
+    },
+    {
+        "appid": 10540,
+        "name": "Football Manager 2009",
+        "allTimePeak": 24738,
+        "done": false
+    },
+    {
+        "appid": 1171690,
+        "name": "Wayfinder",
+        "allTimePeak": 24712,
+        "done": false
+    },
+    {
+        "appid": 235540,
+        "name": "Warhammer: End Times - Vermintide",
+        "allTimePeak": 24700,
+        "done": false
+    },
+    {
+        "appid": 242920,
+        "name": "Banished",
+        "allTimePeak": 24636,
+        "done": false
+    },
+    {
+        "appid": 389430,
+        "name": "Knight Online",
+        "allTimePeak": 24594,
+        "done": false
+    },
+    {
+        "appid": 480490,
+        "name": "Prey",
+        "allTimePeak": 24594,
+        "done": false
+    },
+    {
+        "appid": 719040,
+        "name": "Wasteland 3",
+        "allTimePeak": 24555,
         "done": false
     },
     {
         "appid": 766570,
         "name": "Russian Fishing 4",
         "allTimePeak": 24544,
+        "done": true
+    },
+    {
+        "appid": 418460,
+        "name": "Rising Storm 2: Vietnam",
+        "allTimePeak": 24518,
+        "done": false
+    },
+    {
+        "appid": 570940,
+        "name": "DARK SOULS\u2122: REMASTERED",
+        "allTimePeak": 24501,
+        "done": false
+    },
+    {
+        "appid": 34000,
+        "name": "Football Manager 2010",
+        "allTimePeak": 24343,
+        "done": false
+    },
+    {
+        "appid": 234650,
+        "name": "Shadowrun Returns",
+        "allTimePeak": 24329,
+        "done": false
+    },
+    {
+        "appid": 1066780,
+        "name": "Transport Fever 2",
+        "allTimePeak": 24308,
+        "done": false
+    },
+    {
+        "appid": 1859910,
+        "name": "\u6d3b\u4fe0\u50b3",
+        "allTimePeak": 24278,
+        "done": false
+    },
+    {
+        "appid": 453480,
+        "name": "Shadowverse",
+        "allTimePeak": 24167,
+        "done": false
+    },
+    {
+        "appid": 1496790,
+        "name": "Gotham Knights",
+        "allTimePeak": 24138,
+        "done": false
+    },
+    {
+        "appid": 1250,
+        "name": "Killing Floor",
+        "allTimePeak": 24107,
+        "done": false
+    },
+    {
+        "appid": 1080110,
+        "name": "F1 2020",
+        "allTimePeak": 24010,
+        "done": false
+    },
+    {
+        "appid": 1641480,
+        "name": "MONSTER HUNTER RISE DEMO",
+        "allTimePeak": 23991,
+        "done": false
+    },
+    {
+        "appid": 524220,
+        "name": "NieR:Automata\u2122",
+        "allTimePeak": 23908,
+        "done": false
+    },
+    {
+        "appid": 244850,
+        "name": "Space Engineers",
+        "allTimePeak": 23888,
+        "done": false
+    },
+    {
+        "appid": 858810,
+        "name": "Dawn of Man",
+        "allTimePeak": 23864,
+        "done": false
+    },
+    {
+        "appid": 1940340,
+        "name": "Darkest Dungeon\u00ae II",
+        "allTimePeak": 23800,
+        "done": false
+    },
+    {
+        "appid": 464920,
+        "name": "Surviving Mars",
+        "allTimePeak": 23744,
+        "done": false
+    },
+    {
+        "appid": 2124490,
+        "name": "SILENT HILL 2",
+        "allTimePeak": 23676,
+        "done": false
+    },
+    {
+        "appid": 8980,
+        "name": "Borderlands GOTY",
+        "allTimePeak": 23655,
+        "done": false
+    },
+    {
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild\u2122",
+        "allTimePeak": 23612,
+        "done": false
+    },
+    {
+        "appid": 797410,
+        "name": "Headsnatchers",
+        "allTimePeak": 23574,
+        "done": false
+    },
+    {
+        "appid": 225540,
+        "name": "Just Cause 3",
+        "allTimePeak": 23459,
+        "done": false
+    },
+    {
+        "appid": 1111030,
+        "name": "Hentai Bad Girls",
+        "allTimePeak": 23438,
+        "done": false
+    },
+    {
+        "appid": 1675900,
+        "name": "Warlander",
+        "allTimePeak": 23428,
+        "done": false
+    },
+    {
+        "appid": 220240,
+        "name": "Far Cry\u00ae 3",
+        "allTimePeak": 23065,
+        "done": false
+    },
+    {
+        "appid": 346900,
+        "name": "AdVenture Capitalist",
+        "allTimePeak": 22998,
+        "done": false
+    },
+    {
+        "appid": 411300,
+        "name": "ELEX",
+        "allTimePeak": 22969,
+        "done": false
+    },
+    {
+        "appid": 323470,
+        "name": "DRAGON BALL XENOVERSE",
+        "allTimePeak": 22850,
+        "done": false
+    },
+    {
+        "appid": 1876890,
+        "name": "Wandering Sword",
+        "allTimePeak": 22824,
+        "done": false
+    },
+    {
+        "appid": 1253920,
+        "name": "Rogue Legacy 2",
+        "allTimePeak": 22811,
+        "done": false
+    },
+    {
+        "appid": 712100,
+        "name": "A Total War Saga: Thrones of Britannia",
+        "allTimePeak": 22797,
+        "done": false
+    },
+    {
+        "appid": 495420,
+        "name": "State of Decay 2",
+        "allTimePeak": 22728,
+        "done": false
+    },
+    {
+        "appid": 560130,
+        "name": "Pillars of Eternity II: Deadfire",
+        "allTimePeak": 22724,
+        "done": false
+    },
+    {
+        "appid": 640820,
+        "name": "Pathfinder: Kingmaker",
+        "allTimePeak": 22643,
+        "done": false
+    },
+    {
+        "appid": 10180,
+        "name": "Call of Duty: Modern Warfare 2 (2009)",
+        "allTimePeak": 22614,
+        "done": false
+    },
+    {
+        "appid": 1190000,
+        "name": "Car Mechanic Simulator 2021",
+        "allTimePeak": 22561,
+        "done": false
+    },
+    {
+        "appid": 312670,
+        "name": "Strange Brigade",
+        "allTimePeak": 22426,
+        "done": false
+    },
+    {
+        "appid": 403640,
+        "name": "Dishonored 2",
+        "allTimePeak": 22411,
+        "done": false
+    },
+    {
+        "appid": 644930,
+        "name": "They Are Billions",
+        "allTimePeak": 22395,
+        "done": false
+    },
+    {
+        "appid": 2296990,
+        "name": "We Were Here Expeditions: The FriendShip",
+        "allTimePeak": 22392,
+        "done": false
+    },
+    {
+        "appid": 2943730,
+        "name": "FragPunk Playtest",
+        "allTimePeak": 22331,
         "done": false
     },
     {
         "appid": 2426960,
         "name": "Summoners War",
         "allTimePeak": 22281,
+        "done": true
+    },
+    {
+        "appid": 2225070,
+        "name": "Trackmania",
+        "allTimePeak": 22128,
+        "done": false
+    },
+    {
+        "appid": 459910,
+        "name": "30 IMPOSSIBLE LEVELS",
+        "allTimePeak": 22078,
+        "done": false
+    },
+    {
+        "appid": 1178830,
+        "name": "Bright Memory: Infinite",
+        "allTimePeak": 22076,
+        "done": false
+    },
+    {
+        "appid": 230230,
+        "name": "Divinity: Original Sin (Classic)",
+        "allTimePeak": 22040,
+        "done": false
+    },
+    {
+        "appid": 203190,
+        "name": "SteamDB Unknown App 203190",
+        "allTimePeak": 22001,
+        "done": false
+    },
+    {
+        "appid": 493340,
+        "name": "Planet Coaster",
+        "allTimePeak": 21971,
+        "done": false
+    },
+    {
+        "appid": 24960,
+        "name": "Battlefield: Bad Company\u2122 2",
+        "allTimePeak": 21923,
+        "done": false
+    },
+    {
+        "appid": 629520,
+        "name": "Soundpad",
+        "allTimePeak": 21920,
+        "done": false
+    },
+    {
+        "appid": 824550,
+        "name": "SD GUNDAM BATTLE ALLIANCE",
+        "allTimePeak": 21909,
+        "done": false
+    },
+    {
+        "appid": 65800,
+        "name": "Dungeon Defenders",
+        "allTimePeak": 21862,
+        "done": false
+    },
+    {
+        "appid": 2709440,
+        "name": "Delta Force Alpha Test",
+        "allTimePeak": 21806,
+        "done": false
+    },
+    {
+        "appid": 1084600,
+        "name": "My Time at Sandrock",
+        "allTimePeak": 21778,
+        "done": false
+    },
+    {
+        "appid": 243870,
+        "name": "SteamDB Unknown App 243870",
+        "allTimePeak": 21777,
+        "done": false
+    },
+    {
+        "appid": 2087030,
+        "name": "Shatterline",
+        "allTimePeak": 21760,
+        "done": false
+    },
+    {
+        "appid": 427410,
+        "name": "Abiotic Factor",
+        "allTimePeak": 21753,
+        "done": false
+    },
+    {
+        "appid": 1875830,
+        "name": "Shin Megami Tensei V: Vengeance",
+        "allTimePeak": 21749,
+        "done": false
+    },
+    {
+        "appid": 780310,
+        "name": "The Riftbreaker",
+        "allTimePeak": 21741,
+        "done": false
+    },
+    {
+        "appid": 626690,
+        "name": "Sword Art Online: Fatal Bullet",
+        "allTimePeak": 21727,
+        "done": false
+    },
+    {
+        "appid": 1880330,
+        "name": "Sanfu",
+        "allTimePeak": 21648,
+        "done": false
+    },
+    {
+        "appid": 488790,
+        "name": "South Park The Fractured But Whole",
+        "allTimePeak": 21609,
+        "done": false
+    },
+    {
+        "appid": 1657630,
+        "name": "Slime Rancher 2",
+        "allTimePeak": 21524,
+        "done": false
+    },
+    {
+        "appid": 601510,
+        "name": "Yu-Gi-Oh! Duel Links",
+        "allTimePeak": 21520,
         "done": false
     },
     {
         "appid": 1665460,
         "name": "eFootball\u2122",
         "allTimePeak": 21316,
+        "done": true
+    },
+    {
+        "appid": 444490,
+        "name": "POLYWAR",
+        "allTimePeak": 21240,
+        "done": false
+    },
+    {
+        "appid": 1222140,
+        "name": "Detroit: Become Human",
+        "allTimePeak": 21221,
+        "done": false
+    },
+    {
+        "appid": 2889840,
+        "name": "Spectre Divide Playtest",
+        "allTimePeak": 21171,
+        "done": false
+    },
+    {
+        "appid": 2849080,
+        "name": "Kingdom Rush 5: Alliance TD",
+        "allTimePeak": 21133,
+        "done": false
+    },
+    {
+        "appid": 1961460,
+        "name": "Project Playtime",
+        "allTimePeak": 21105,
         "done": false
     },
     {
         "appid": 1905180,
         "name": "OBS Studio",
         "allTimePeak": 21090,
+        "done": true
+    },
+    {
+        "appid": 1094520,
+        "name": "Sands of Salzaar",
+        "allTimePeak": 21047,
         "done": false
     },
     {
-        "appid": 365670,
-        "name": "Blender",
-        "allTimePeak": 10708,
+        "appid": 1974050,
+        "name": "Torchlight: Infinite",
+        "allTimePeak": 21030,
+        "done": false
+    },
+    {
+        "appid": 227940,
+        "name": "Heroes & Generals",
+        "allTimePeak": 21026,
+        "done": false
+    },
+    {
+        "appid": 996470,
+        "name": "eFootball PES 2020",
+        "allTimePeak": 21018,
+        "done": false
+    },
+    {
+        "appid": 880940,
+        "name": "Pummel Party",
+        "allTimePeak": 20957,
+        "done": false
+    },
+    {
+        "appid": 2666510,
+        "name": "Rusty's Retirement",
+        "allTimePeak": 20876,
+        "done": false
+    },
+    {
+        "appid": 236150,
+        "name": "Starpoint Gemini 2",
+        "allTimePeak": 20842,
+        "done": false
+    },
+    {
+        "appid": 1244460,
+        "name": "Jurassic World Evolution 2",
+        "allTimePeak": 20784,
+        "done": false
+    },
+    {
+        "appid": 431240,
+        "name": "Golf With Your Friends",
+        "allTimePeak": 20750,
+        "done": false
+    },
+    {
+        "appid": 1259970,
+        "name": "eFootball PES 2021 SEASON UPDATE",
+        "allTimePeak": 20674,
+        "done": false
+    },
+    {
+        "appid": 400,
+        "name": "Portal",
+        "allTimePeak": 20672,
+        "done": false
+    },
+    {
+        "appid": 383180,
+        "name": "Dead Island Riptide Definitive Edition",
+        "allTimePeak": 20476,
+        "done": false
+    },
+    {
+        "appid": 418370,
+        "name": "Resident Evil 7 Biohazard",
+        "allTimePeak": 20449,
+        "done": false
+    },
+    {
+        "appid": 578650,
+        "name": "The Outer Worlds",
+        "allTimePeak": 20349,
+        "done": false
+    },
+    {
+        "appid": 310560,
+        "name": "DiRT Rally",
+        "allTimePeak": 20343,
+        "done": false
+    },
+    {
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "allTimePeak": 20324,
+        "done": false
+    },
+    {
+        "appid": 623990,
+        "name": "Tom Clancy's Rainbow Six Siege - Test Server",
+        "allTimePeak": 20306,
+        "done": false
+    },
+    {
+        "appid": 2445690,
+        "name": "Lost Castle 2",
+        "allTimePeak": 20280,
+        "done": false
+    },
+    {
+        "appid": 329000,
+        "name": "Data Hacker: Corruption",
+        "allTimePeak": 20258,
+        "done": false
+    },
+    {
+        "appid": 466560,
+        "name": "Northgard",
+        "allTimePeak": 20235,
+        "done": false
+    },
+    {
+        "appid": 1973710,
+        "name": "\u30d8\u30d6\u30f3\u30d0\u30fc\u30f3\u30ba\u30ec\u30c3\u30c9",
+        "allTimePeak": 20201,
+        "done": false
+    },
+    {
+        "appid": 1260390,
+        "name": "Hentai Furry",
+        "allTimePeak": 20153,
+        "done": false
+    },
+    {
+        "appid": 933110,
+        "name": "Age of Empires III: Definitive Edition",
+        "allTimePeak": 20146,
+        "done": false
+    },
+    {
+        "appid": 1582170,
+        "name": "Knockout City\u2122 Trial",
+        "allTimePeak": 20146,
+        "done": false
+    },
+    {
+        "appid": 1252330,
+        "name": "DEATHLOOP",
+        "allTimePeak": 20094,
+        "done": false
+    },
+    {
+        "appid": 1220010,
+        "name": "Home Behind 2",
+        "allTimePeak": 20081,
+        "done": false
+    },
+    {
+        "appid": 2369390,
+        "name": "Far Cry 6",
+        "allTimePeak": 20080,
+        "done": false
+    },
+    {
+        "appid": 262060,
+        "name": "Darkest Dungeon\u00ae",
+        "allTimePeak": 20064,
+        "done": false
+    },
+    {
+        "appid": 815370,
+        "name": "Green Hell",
+        "allTimePeak": 20003,
+        "done": false
+    },
+    {
+        "appid": 205100,
+        "name": "Dishonored",
+        "allTimePeak": 19938,
+        "done": false
+    },
+    {
+        "appid": 1404210,
+        "name": "Red Dead Online",
+        "allTimePeak": 19921,
+        "done": false
+    },
+    {
+        "appid": 2128940,
+        "name": "\u4eba\u9b45",
+        "allTimePeak": 19912,
+        "done": false
+    },
+    {
+        "appid": 1173690,
+        "name": "Resident Evil 3: Raccoon City Demo ",
+        "allTimePeak": 19716,
+        "done": false
+    },
+    {
+        "appid": 350470,
+        "name": "DOOM Open Beta",
+        "allTimePeak": 19692,
+        "done": false
+    },
+    {
+        "appid": 244210,
+        "name": "Assetto Corsa",
+        "allTimePeak": 19661,
+        "done": false
+    },
+    {
+        "appid": 602960,
+        "name": "Barotrauma",
+        "allTimePeak": 19655,
+        "done": false
+    },
+    {
+        "appid": 1627720,
+        "name": "Lies of P",
+        "allTimePeak": 19618,
+        "done": false
+    },
+    {
+        "appid": 2285150,
+        "name": "The Front",
+        "allTimePeak": 19585,
+        "done": false
+    },
+    {
+        "appid": 475150,
+        "name": "Titan Quest Anniversary Edition",
+        "allTimePeak": 19497,
+        "done": false
+    },
+    {
+        "appid": 2958310,
+        "name": "Once Human Demo",
+        "allTimePeak": 19487,
+        "done": false
+    },
+    {
+        "appid": 226840,
+        "name": "Age of Wonders III",
+        "allTimePeak": 19469,
+        "done": false
+    },
+    {
+        "appid": 454650,
+        "name": "DRAGON BALL XENOVERSE 2",
+        "allTimePeak": 19416,
+        "done": false
+    },
+    {
+        "appid": 272350,
+        "name": "SteamDB Unknown App 272350",
+        "allTimePeak": 19406,
+        "done": false
+    },
+    {
+        "appid": 476600,
+        "name": "Call of Duty: WWII",
+        "allTimePeak": 19406,
+        "done": false
+    },
+    {
+        "appid": 1465460,
+        "name": "Infection Free Zone",
+        "allTimePeak": 19380,
+        "done": false
+    },
+    {
+        "appid": 47900,
+        "name": "Dragon Age II (Retired)",
+        "allTimePeak": 19324,
+        "done": false
+    },
+    {
+        "appid": 212680,
+        "name": "FTL: Faster Than Light",
+        "allTimePeak": 19301,
+        "done": false
+    },
+    {
+        "appid": 1869590,
+        "name": "Omega Strikers",
+        "allTimePeak": 19257,
+        "done": false
+    },
+    {
+        "appid": 1237320,
+        "name": "Sonic Frontiers",
+        "allTimePeak": 19181,
+        "done": false
+    },
+    {
+        "appid": 835570,
+        "name": "Conqueror's Blade",
+        "allTimePeak": 19178,
+        "done": false
+    },
+    {
+        "appid": 33930,
+        "name": "Arma 2: Operation Arrowhead",
+        "allTimePeak": 19175,
+        "done": false
+    },
+    {
+        "appid": 270880,
+        "name": "American Truck Simulator",
+        "allTimePeak": 19153,
+        "done": false
+    },
+    {
+        "appid": 220200,
+        "name": "Kerbal Space Program",
+        "allTimePeak": 19149,
+        "done": false
+    },
+    {
+        "appid": 2700330,
+        "name": "Dungeonborne Demo",
+        "allTimePeak": 19091,
+        "done": false
+    },
+    {
+        "appid": 268910,
+        "name": "Cuphead",
+        "allTimePeak": 19026,
+        "done": false
+    },
+    {
+        "appid": 1147560,
+        "name": "Skul: The Hero Slayer",
+        "allTimePeak": 18970,
+        "done": false
+    },
+    {
+        "appid": 1997040,
+        "name": "MARVEL SNAP",
+        "allTimePeak": 18967,
+        "done": false
+    },
+    {
+        "appid": 389730,
+        "name": "TEKKEN 7",
+        "allTimePeak": 18966,
+        "done": false
+    },
+    {
+        "appid": 2444170,
+        "name": "Backpack Battles Demo",
+        "allTimePeak": 18958,
+        "done": false
+    },
+    {
+        "appid": 274170,
+        "name": "Hotline Miami 2: Wrong Number",
+        "allTimePeak": 18950,
+        "done": false
+    },
+    {
+        "appid": 473690,
+        "name": "Absolver",
+        "allTimePeak": 18921,
+        "done": false
+    },
+    {
+        "appid": 1419640,
+        "name": "Project F",
+        "allTimePeak": 18920,
+        "done": false
+    },
+    {
+        "appid": 1358820,
+        "name": "Marvel\u2019s Avengers Beta",
+        "allTimePeak": 18908,
+        "done": false
+    },
+    {
+        "appid": 587830,
+        "name": "Archery Practice VR",
+        "allTimePeak": 18888,
+        "done": false
+    },
+    {
+        "appid": 15620,
+        "name": "Warhammer 40,000: Dawn of War II - Anniversary Edition",
+        "allTimePeak": 18862,
+        "done": false
+    },
+    {
+        "appid": 240760,
+        "name": "Wasteland 2",
+        "allTimePeak": 18856,
+        "done": false
+    },
+    {
+        "appid": 2066020,
+        "name": "Soulstone Survivors",
+        "allTimePeak": 18854,
+        "done": false
+    },
+    {
+        "appid": 493520,
+        "name": "GTFO",
+        "allTimePeak": 18813,
+        "done": false
+    },
+    {
+        "appid": 1418100,
+        "name": "Swords of Legends Online",
+        "allTimePeak": 18806,
+        "done": false
+    },
+    {
+        "appid": 2162800,
+        "name": "shapez 2",
+        "allTimePeak": 18806,
+        "done": false
+    },
+    {
+        "appid": 236110,
+        "name": "Dungeon Defenders II",
+        "allTimePeak": 18785,
+        "done": false
+    },
+    {
+        "appid": 385070,
+        "name": "Atonement: Scourge of Time",
+        "allTimePeak": 18727,
+        "done": false
+    },
+    {
+        "appid": 313160,
+        "name": "Farming Simulator 15",
+        "allTimePeak": 18711,
+        "done": false
+    },
+    {
+        "appid": 3092450,
+        "name": "inZOI: Character Studio",
+        "allTimePeak": 18657,
+        "done": false
+    },
+    {
+        "appid": 2291060,
+        "name": "EARTH DEFENSE FORCE 6",
+        "allTimePeak": 18641,
+        "done": false
+    },
+    {
+        "appid": 261030,
+        "name": "The Walking Dead: Season Two",
+        "allTimePeak": 18627,
+        "done": false
+    },
+    {
+        "appid": 627690,
+        "name": "Idle Champions of the Forgotten Realms",
+        "allTimePeak": 18578,
+        "done": false
+    },
+    {
+        "appid": 885970,
+        "name": "Total War: ROME REMASTERED",
+        "allTimePeak": 18526,
+        "done": false
+    },
+    {
+        "appid": 893030,
+        "name": "Music Racer",
+        "allTimePeak": 18509,
+        "done": false
+    },
+    {
+        "appid": 1458140,
+        "name": "Pacific Drive",
+        "allTimePeak": 18507,
+        "done": false
+    },
+    {
+        "appid": 566060,
+        "name": "The Crypts of Anak Shaba - VR",
+        "allTimePeak": 18381,
+        "done": false
+    },
+    {
+        "appid": 239160,
+        "name": "Thief",
+        "allTimePeak": 18352,
+        "done": false
+    },
+    {
+        "appid": 955900,
+        "name": "Amazing Cultivation Simulator",
+        "allTimePeak": 18349,
+        "done": false
+    },
+    {
+        "appid": 686810,
+        "name": "Hell Let Loose",
+        "allTimePeak": 18280,
+        "done": false
+    },
+    {
+        "appid": 202970,
+        "name": "Call of Duty: Black Ops II",
+        "allTimePeak": 18277,
+        "done": false
+    },
+    {
+        "appid": 1541780,
+        "name": "Resident Evil Village Gameplay Demo",
+        "allTimePeak": 18263,
+        "done": false
+    },
+    {
+        "appid": 319630,
+        "name": "Life is Strange\u2122",
+        "allTimePeak": 18260,
+        "done": false
+    },
+    {
+        "appid": 1190970,
+        "name": "House Flipper 2",
+        "allTimePeak": 18170,
+        "done": false
+    },
+    {
+        "appid": 447040,
+        "name": "Watch_Dogs 2",
+        "allTimePeak": 18138,
+        "done": false
+    },
+    {
+        "appid": 9200,
+        "name": "RAGE",
+        "allTimePeak": 18059,
+        "done": false
+    },
+    {
+        "appid": 361420,
+        "name": "ASTRONEER",
+        "allTimePeak": 17986,
+        "done": false
+    },
+    {
+        "appid": 216250,
+        "name": "Dead Island Riptide",
+        "allTimePeak": 17960,
+        "done": false
+    },
+    {
+        "appid": 246620,
+        "name": "Plague Inc: Evolved",
+        "allTimePeak": 17889,
+        "done": false
+    },
+    {
+        "appid": 244160,
+        "name": "Homeworld Remastered Collection",
+        "allTimePeak": 17790,
+        "done": false
+    },
+    {
+        "appid": 2013570,
+        "name": "Cult of the Lamb Demo",
+        "allTimePeak": 17740,
+        "done": false
+    },
+    {
+        "appid": 24200,
+        "name": "DC Universe Online",
+        "allTimePeak": 17701,
+        "done": false
+    },
+    {
+        "appid": 1544020,
+        "name": "The Callisto Protocol",
+        "allTimePeak": 17580,
+        "done": false
+    },
+    {
+        "appid": 383870,
+        "name": "Firewatch",
+        "allTimePeak": 17568,
+        "done": false
+    },
+    {
+        "appid": 2674810,
+        "name": "Dragon's Dogma 2 Character Creator & Storage",
+        "allTimePeak": 17528,
+        "done": false
+    },
+    {
+        "appid": 611500,
+        "name": "Quake Champions",
+        "allTimePeak": 17476,
+        "done": false
+    },
+    {
+        "appid": 312660,
+        "name": "Sniper Elite 4",
+        "allTimePeak": 17366,
+        "done": false
+    },
+    {
+        "appid": 1273400,
+        "name": "Construction Simulator",
+        "allTimePeak": 17365,
+        "done": false
+    },
+    {
+        "appid": 841860,
+        "name": "#Have A Sticker",
+        "allTimePeak": 17360,
+        "done": false
+    },
+    {
+        "appid": 525300,
+        "name": "Starship Annihilator",
+        "allTimePeak": 17248,
+        "done": false
+    },
+    {
+        "appid": 747660,
+        "name": "Five Nights at Freddy's: Security Breach",
+        "allTimePeak": 17219,
+        "done": false
+    },
+    {
+        "appid": 207140,
+        "name": "SpeedRunners",
+        "allTimePeak": 17212,
+        "done": false
+    },
+    {
+        "appid": 1433140,
+        "name": "The Texas Chain Saw Massacre",
+        "allTimePeak": 17198,
+        "done": false
+    },
+    {
+        "appid": 71280,
+        "name": "Football Manager 2012 Demo",
+        "allTimePeak": 17196,
+        "done": false
+    },
+    {
+        "appid": 1113120,
+        "name": "IXION",
+        "allTimePeak": 17189,
+        "done": false
+    },
+    {
+        "appid": 442080,
+        "name": "Riders of Icarus",
+        "allTimePeak": 17162,
+        "done": false
+    },
+    {
+        "appid": 1276390,
+        "name": "Bloons TD Battles 2",
+        "allTimePeak": 17137,
+        "done": false
+    },
+    {
+        "appid": 1566690,
+        "name": "Outpost: Infinity Siege",
+        "allTimePeak": 17128,
+        "done": false
+    },
+    {
+        "appid": 504490,
+        "name": "The God's Chain",
+        "allTimePeak": 17097,
+        "done": false
+    },
+    {
+        "appid": 1092790,
+        "name": "Inscryption",
+        "allTimePeak": 17072,
+        "done": false
+    },
+    {
+        "appid": 1118200,
+        "name": "People Playground",
+        "allTimePeak": 17015,
+        "done": false
+    },
+    {
+        "appid": 1971650,
+        "name": "OCTOPATH TRAVELER II",
+        "allTimePeak": 17008,
+        "done": false
+    },
+    {
+        "appid": 898750,
+        "name": "Super Robot Wars 30",
+        "allTimePeak": 17005,
+        "done": false
+    },
+    {
+        "appid": 599140,
+        "name": "Graveyard Keeper",
+        "allTimePeak": 16993,
+        "done": false
+    },
+    {
+        "appid": 3046430,
+        "name": "Hamster",
+        "allTimePeak": 16988,
+        "done": false
+    },
+    {
+        "appid": 412290,
+        "name": "The Dreamlord",
+        "allTimePeak": 16985,
+        "done": false
+    },
+    {
+        "appid": 939960,
+        "name": "Far Cry New Dawn",
+        "allTimePeak": 16975,
+        "done": false
+    },
+    {
+        "appid": 298110,
+        "name": "Far Cry 4",
+        "allTimePeak": 16963,
+        "done": false
+    },
+    {
+        "appid": 1824220,
+        "name": "Chivalry 2",
+        "allTimePeak": 16959,
+        "done": false
+    },
+    {
+        "appid": 466240,
+        "name": "Deceit",
+        "allTimePeak": 16923,
+        "done": false
+    },
+    {
+        "appid": 3152030,
+        "name": "SUPERVIVE Demo",
+        "allTimePeak": 16887,
+        "done": false
+    },
+    {
+        "appid": 1995770,
+        "name": "Sapiens Demo",
+        "allTimePeak": 16868,
+        "done": false
+    },
+    {
+        "appid": 1504980,
+        "name": "It Takes Two Friend's Pass",
+        "allTimePeak": 16827,
+        "done": false
+    },
+    {
+        "appid": 22350,
+        "name": "BRINK",
+        "allTimePeak": 16824,
+        "done": false
+    },
+    {
+        "appid": 1509960,
+        "name": "PICO PARK",
+        "allTimePeak": 16802,
+        "done": false
+    },
+    {
+        "appid": 219740,
+        "name": "Don't Starve",
+        "allTimePeak": 16796,
+        "done": false
+    },
+    {
+        "appid": 1183940,
+        "name": "Scavengers",
+        "allTimePeak": 16787,
+        "done": false
+    },
+    {
+        "appid": 489940,
+        "name": "BATTALION: Legacy",
+        "allTimePeak": 16771,
+        "done": false
+    },
+    {
+        "appid": 1625450,
+        "name": "Muck",
+        "allTimePeak": 16715,
+        "done": false
+    },
+    {
+        "appid": 1325860,
+        "name": "VTube Studio",
+        "allTimePeak": 16688,
+        "done": false
+    },
+    {
+        "appid": 35450,
+        "name": "Rising Storm/Red Orchestra 2 Multiplayer",
+        "allTimePeak": 16551,
+        "done": false
+    },
+    {
+        "appid": 2081110,
+        "name": "Undecember Demo",
+        "allTimePeak": 16539,
+        "done": false
+    },
+    {
+        "appid": 1943950,
+        "name": "Escape the Backrooms",
+        "allTimePeak": 16529,
+        "done": false
+    },
+    {
+        "appid": 239220,
+        "name": "The Mighty Quest For Epic Loot",
+        "allTimePeak": 16492,
+        "done": false
+    },
+    {
+        "appid": 872410,
+        "name": "ROMANCE OF THE THREE KINGDOMS XIV",
+        "allTimePeak": 16482,
+        "done": false
+    },
+    {
+        "appid": 2406770,
+        "name": "Bodycam",
+        "allTimePeak": 16457,
+        "done": false
+    },
+    {
+        "appid": 429470,
+        "name": "Space Pilgrim Episode I: Alpha Centauri",
+        "allTimePeak": 16445,
+        "done": false
+    },
+    {
+        "appid": 882790,
+        "name": "\u5929\u547d\u5947\u5fa1 Fate Seeker",
+        "allTimePeak": 16413,
+        "done": false
+    },
+    {
+        "appid": 3054490,
+        "name": "Shrimp",
+        "allTimePeak": 16392,
+        "done": false
+    },
+    {
+        "appid": 1268750,
+        "name": "Starship Troopers: Extermination",
+        "allTimePeak": 16372,
+        "done": false
+    },
+    {
+        "appid": 567940,
+        "name": "Piximalism",
+        "allTimePeak": 16350,
+        "done": false
+    },
+    {
+        "appid": 606880,
+        "name": "GreedFall",
+        "allTimePeak": 16345,
+        "done": false
+    },
+    {
+        "appid": 224540,
+        "name": "Ace of Spades",
+        "allTimePeak": 16309,
+        "done": false
+    },
+    {
+        "appid": 1276790,
+        "name": "Ruined King: A League of Legends Story\u2122",
+        "allTimePeak": 16297,
+        "done": false
+    },
+    {
+        "appid": 1949740,
+        "name": "Banana Shooter",
+        "allTimePeak": 16242,
+        "done": false
+    },
+    {
+        "appid": 3590,
+        "name": "Plants vs. Zombies: Game of the Year",
+        "allTimePeak": 16225,
+        "done": false
+    },
+    {
+        "appid": 233450,
+        "name": "Prison Architect",
+        "allTimePeak": 16211,
+        "done": false
+    },
+    {
+        "appid": 554620,
+        "name": "Life is Strange: Before the Storm",
+        "allTimePeak": 16209,
+        "done": false
+    },
+    {
+        "appid": 1473480,
+        "name": "A.V.A Global",
+        "allTimePeak": 16199,
+        "done": false
+    },
+    {
+        "appid": 220,
+        "name": "Half-Life 2",
+        "allTimePeak": 16182,
+        "done": false
+    },
+    {
+        "appid": 2126550,
+        "name": "The Outlast Trials Closed Beta",
+        "allTimePeak": 16179,
+        "done": false
+    },
+    {
+        "appid": 1189630,
+        "name": "\u4fe0\u4e4b\u9053(PathOfWuxia)",
+        "allTimePeak": 16175,
+        "done": false
+    },
+    {
+        "appid": 305050,
+        "name": "Outland",
+        "allTimePeak": 16166,
+        "done": false
+    },
+    {
+        "appid": 612880,
+        "name": "Wolfenstein II: The New Colossus",
+        "allTimePeak": 16141,
+        "done": false
+    },
+    {
+        "appid": 427290,
+        "name": "Vampyr",
+        "allTimePeak": 16120,
+        "done": false
+    },
+    {
+        "appid": 201790,
+        "name": "Orcs Must Die! 2",
+        "allTimePeak": 16119,
+        "done": false
+    },
+    {
+        "appid": 438740,
+        "name": "Friday the 13th: The Game",
+        "allTimePeak": 16096,
+        "done": false
+    },
+    {
+        "appid": 2343650,
+        "name": "Waven",
+        "allTimePeak": 16084,
+        "done": false
+    },
+    {
+        "appid": 242050,
+        "name": "Assassin's Creed IV Black Flag",
+        "allTimePeak": 16049,
+        "done": false
+    },
+    {
+        "appid": 204360,
+        "name": "Castle Crashers",
+        "allTimePeak": 16013,
+        "done": false
+    },
+    {
+        "appid": 550650,
+        "name": "Black Squad",
+        "allTimePeak": 15939,
+        "done": false
+    },
+    {
+        "appid": 1600360,
+        "name": "The Cycle Playtest",
+        "allTimePeak": 15919,
+        "done": false
+    },
+    {
+        "appid": 2781320,
+        "name": "SMITE 2 - Public Test",
+        "allTimePeak": 15919,
+        "done": false
+    },
+    {
+        "appid": 613100,
+        "name": "House Flipper",
+        "allTimePeak": 15910,
+        "done": false
+    },
+    {
+        "appid": 2334730,
+        "name": "Death Must Die",
+        "allTimePeak": 15905,
+        "done": false
+    },
+    {
+        "appid": 386940,
+        "name": "Ultimate Chicken Horse",
+        "allTimePeak": 15874,
+        "done": false
+    },
+    {
+        "appid": 50280,
+        "name": "Mafia II - Demo",
+        "allTimePeak": 15864,
+        "done": false
+    },
+    {
+        "appid": 311690,
+        "name": "Enter the Gungeon",
+        "allTimePeak": 15792,
+        "done": false
+    },
+    {
+        "appid": 362960,
+        "name": "Tyranny",
+        "allTimePeak": 15792,
+        "done": false
+    },
+    {
+        "appid": 2334160,
+        "name": "Lies of P Demo",
+        "allTimePeak": 15761,
+        "done": false
+    },
+    {
+        "appid": 307780,
+        "name": "Mortal Kombat X",
+        "allTimePeak": 15743,
+        "done": false
+    },
+    {
+        "appid": 1213740,
+        "name": "She Will Punish Them",
+        "allTimePeak": 15711,
+        "done": false
+    },
+    {
+        "appid": 2208920,
+        "name": "Assassin's Creed Valhalla",
+        "allTimePeak": 15679,
+        "done": false
+    },
+    {
+        "appid": 55150,
+        "name": "Warhammer 40,000: Space Marine - Anniversary Edition",
+        "allTimePeak": 15653,
+        "done": false
+    },
+    {
+        "appid": 1549970,
+        "name": "Aliens: Fireteam Elite",
+        "allTimePeak": 15568,
+        "done": false
+    },
+    {
+        "appid": 39120,
+        "name": "RIFT",
+        "allTimePeak": 15546,
+        "done": false
+    },
+    {
+        "appid": 2324650,
+        "name": "The Murder of Sonic the Hedgehog",
+        "allTimePeak": 15543,
+        "done": false
+    },
+    {
+        "appid": 1674470,
+        "name": "ELYON",
+        "allTimePeak": 15541,
+        "done": false
+    },
+    {
+        "appid": 2060130,
+        "name": "Return to Monkey Island",
+        "allTimePeak": 15539,
+        "done": false
+    },
+    {
+        "appid": 368260,
+        "name": "Marvel's Midnight Suns",
+        "allTimePeak": 15500,
+        "done": false
+    },
+    {
+        "appid": 3013470,
+        "name": "Bananametr",
+        "allTimePeak": 15472,
+        "done": false
+    },
+    {
+        "appid": 418070,
+        "name": "Turbo Pug",
+        "allTimePeak": 15462,
+        "done": false
+    },
+    {
+        "appid": 969990,
+        "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+        "allTimePeak": 15419,
+        "done": false
+    },
+    {
+        "appid": 1158160,
+        "name": "Coral Island",
+        "allTimePeak": 15418,
+        "done": false
+    },
+    {
+        "appid": 292730,
+        "name": "Call of Duty: Infinite Warfare",
+        "allTimePeak": 15417,
+        "done": false
+    },
+    {
+        "appid": 1559390,
+        "name": "\u5929\u547d\u5947\u5fa1\u4e8c Fate Seeker II",
+        "allTimePeak": 15417,
+        "done": false
+    },
+    {
+        "appid": 391660,
+        "name": "Incitement 3",
+        "allTimePeak": 15408,
+        "done": false
+    },
+    {
+        "appid": 2340650,
+        "name": "\u53e4\u9f99\u98ce\u4e91\u5f55",
+        "allTimePeak": 15401,
+        "done": false
+    },
+    {
+        "appid": 656880,
+        "name": "Cybercube",
+        "allTimePeak": 15394,
+        "done": false
+    },
+    {
+        "appid": 930210,
+        "name": "HuniePop 2: Double Date",
+        "allTimePeak": 15388,
+        "done": false
+    },
+    {
+        "appid": 412020,
+        "name": "Metro Exodus",
+        "allTimePeak": 15375,
+        "done": false
+    },
+    {
+        "appid": 226700,
+        "name": "Infestation: The New Beginning",
+        "allTimePeak": 15373,
+        "done": false
+    },
+    {
+        "appid": 314700,
+        "name": "Forsaken Uprising",
+        "allTimePeak": 15299,
+        "done": false
+    },
+    {
+        "appid": 492720,
+        "name": "Tropico 6",
+        "allTimePeak": 15294,
+        "done": false
+    },
+    {
+        "appid": 1812450,
+        "name": "Bellwright",
+        "allTimePeak": 15263,
+        "done": false
+    },
+    {
+        "appid": 1543030,
+        "name": "Sword and Fairy 7",
+        "allTimePeak": 15245,
+        "done": false
+    },
+    {
+        "appid": 392160,
+        "name": "X4: Foundations",
+        "allTimePeak": 15198,
+        "done": false
+    },
+    {
+        "appid": 3015610,
+        "name": "Cucumber",
+        "allTimePeak": 15155,
+        "done": false
+    },
+    {
+        "appid": 56400,
+        "name": "Warhammer 40,000: Dawn of War II - Retribution",
+        "allTimePeak": 15143,
+        "done": false
+    },
+    {
+        "appid": 714010,
+        "name": "Aimlabs",
+        "allTimePeak": 15141,
+        "done": false
+    },
+    {
+        "appid": 3050630,
+        "name": "Melon",
+        "allTimePeak": 15037,
+        "done": false
+    },
+    {
+        "appid": 486310,
+        "name": "Meadow",
+        "allTimePeak": 15036,
+        "done": false
+    },
+    {
+        "appid": 2385860,
+        "name": "TEKKEN 8 Playtest",
+        "allTimePeak": 15035,
+        "done": false
+    },
+    {
+        "appid": 1987080,
+        "name": "Inside the Backrooms",
+        "allTimePeak": 15033,
+        "done": false
+    },
+    {
+        "appid": 2786680,
+        "name": "\u7f8e\u5973\uff0c\u8bf7\u522b\u5f71\u54cd\u6211\u5b66\u4e60",
+        "allTimePeak": 15030,
+        "done": false
+    },
+    {
+        "appid": 1286680,
+        "name": "Tiny Tina's Wonderlands",
+        "allTimePeak": 15021,
+        "done": false
+    },
+    {
+        "appid": 905370,
+        "name": "Game Migrated to Another Steam Page",
+        "allTimePeak": 15008,
+        "done": false
+    },
+    {
+        "appid": 208480,
+        "name": "Assassin's Creed\u00ae III",
+        "allTimePeak": 15007,
+        "done": false
+    },
+    {
+        "appid": 588650,
+        "name": "Dead Cells",
+        "allTimePeak": 14910,
+        "done": false
+    },
+    {
+        "appid": 253980,
+        "name": "Enclave",
+        "allTimePeak": 14907,
+        "done": false
+    },
+    {
+        "appid": 385760,
+        "name": "NBA 2K17",
+        "allTimePeak": 14905,
+        "done": false
+    },
+    {
+        "appid": 1851210,
+        "name": "Strinova Demo",
+        "allTimePeak": 14894,
+        "done": false
+    },
+    {
+        "appid": 1029690,
+        "name": "Sniper Elite 5",
+        "allTimePeak": 14870,
+        "done": false
+    },
+    {
+        "appid": 109600,
+        "name": "Neverwinter",
+        "allTimePeak": 14866,
+        "done": false
+    },
+    {
+        "appid": 2221490,
+        "name": "Tom Clancy's The Division 2",
+        "allTimePeak": 14858,
+        "done": false
+    },
+    {
+        "appid": 1650980,
+        "name": "Dome Keeper Demo",
+        "allTimePeak": 14800,
+        "done": false
+    },
+    {
+        "appid": 310950,
+        "name": "Street Fighter V",
+        "allTimePeak": 14783,
+        "done": false
+    },
+    {
+        "appid": 371660,
+        "name": "Far Cry Primal",
+        "allTimePeak": 14783,
+        "done": false
+    },
+    {
+        "appid": 238460,
+        "name": "BattleBlock Theater",
+        "allTimePeak": 14781,
+        "done": false
+    },
+    {
+        "appid": 43110,
+        "name": "Metro 2033",
+        "allTimePeak": 14743,
+        "done": false
+    },
+    {
+        "appid": 2870,
+        "name": "X Rebirth",
+        "allTimePeak": 14732,
+        "done": false
+    },
+    {
+        "appid": 544750,
+        "name": "SOULCALIBUR VI",
+        "allTimePeak": 14684,
+        "done": false
+    },
+    {
+        "appid": 590380,
+        "name": "Into the Breach",
+        "allTimePeak": 14682,
+        "done": false
+    },
+    {
+        "appid": 1029780,
+        "name": "Going Medieval",
+        "allTimePeak": 14676,
+        "done": false
+    },
+    {
+        "appid": 581320,
+        "name": "Insurgency: Sandstorm",
+        "allTimePeak": 14606,
+        "done": false
+    },
+    {
+        "appid": 316010,
+        "name": "Magic Duels",
+        "allTimePeak": 14586,
+        "done": false
+    },
+    {
+        "appid": 836620,
+        "name": "Black Desert (Retired)",
+        "allTimePeak": 14584,
+        "done": false
+    },
+    {
+        "appid": 438020,
+        "name": "AI: Rampage",
+        "allTimePeak": 14532,
+        "done": false
+    },
+    {
+        "appid": 311860,
+        "name": "Data Hacker: Initiation",
+        "allTimePeak": 14518,
+        "done": false
+    },
+    {
+        "appid": 775500,
+        "name": "SCARLET NEXUS",
+        "allTimePeak": 14516,
+        "done": false
+    },
+    {
+        "appid": 2108330,
+        "name": "F1\u00ae 23",
+        "allTimePeak": 14512,
+        "done": false
+    },
+    {
+        "appid": 654880,
+        "name": "Dream Daddy: A Dad Dating Simulator",
+        "allTimePeak": 14471,
+        "done": false
+    },
+    {
+        "appid": 2407300,
+        "name": "Asteroids ++",
+        "allTimePeak": 14467,
+        "done": false
+    },
+    {
+        "appid": 2452260,
+        "name": "Dungeonborne Playtest",
+        "allTimePeak": 14448,
+        "done": false
+    },
+    {
+        "appid": 555570,
+        "name": "Infestation: The New Z",
+        "allTimePeak": 14437,
+        "done": false
+    },
+    {
+        "appid": 305620,
+        "name": "The Long Dark",
+        "allTimePeak": 14433,
+        "done": false
+    },
+    {
+        "appid": 2231380,
+        "name": "Ghost Recon Breakpoint",
+        "allTimePeak": 14382,
+        "done": false
+    },
+    {
+        "appid": 717690,
+        "name": "OVERKILL's The Walking Dead",
+        "allTimePeak": 14375,
+        "done": false
+    },
+    {
+        "appid": 1789480,
+        "name": "Marauders",
+        "allTimePeak": 14332,
+        "done": false
+    },
+    {
+        "appid": 250320,
+        "name": "The Wolf Among Us",
+        "allTimePeak": 14321,
+        "done": false
+    },
+    {
+        "appid": 1401590,
+        "name": "Disney Dreamlight Valley",
+        "allTimePeak": 14314,
+        "done": false
+    },
+    {
+        "appid": 294040,
+        "name": "Loot Hero DX",
+        "allTimePeak": 14306,
+        "done": false
+    },
+    {
+        "appid": 1886120,
+        "name": "Voice of Chernobyl",
+        "allTimePeak": 14280,
+        "done": false
+    },
+    {
+        "appid": 3241280,
+        "name": "POPUCOM Demo",
+        "allTimePeak": 14271,
+        "done": false
+    },
+    {
+        "appid": 1290000,
+        "name": "PowerWash Simulator",
+        "allTimePeak": 14178,
+        "done": false
+    },
+    {
+        "appid": 2845270,
+        "name": "100 Aliens Cats",
+        "allTimePeak": 14154,
+        "done": false
+    },
+    {
+        "appid": 270150,
+        "name": "RUNNING WITH RIFLES",
+        "allTimePeak": 14149,
+        "done": false
+    },
+    {
+        "appid": 2854290,
+        "name": "100 Space Cats",
+        "allTimePeak": 14146,
+        "done": false
+    },
+    {
+        "appid": 593600,
+        "name": "PixARK",
+        "allTimePeak": 14144,
+        "done": false
+    },
+    {
+        "appid": 303390,
+        "name": "Dead Bits",
+        "allTimePeak": 14137,
+        "done": false
+    },
+    {
+        "appid": 648120,
+        "name": "Pixel Sketch",
+        "allTimePeak": 14105,
+        "done": false
+    },
+    {
+        "appid": 213850,
+        "name": "Magic 2014 ",
+        "allTimePeak": 14104,
+        "done": false
+    },
+    {
+        "appid": 529180,
+        "name": "Dark and Light",
+        "allTimePeak": 14089,
+        "done": false
+    },
+    {
+        "appid": 1475810,
+        "name": "Ghostwire: Tokyo",
+        "allTimePeak": 14086,
+        "done": false
+    },
+    {
+        "appid": 1102190,
+        "name": "Monster Train",
+        "allTimePeak": 14073,
+        "done": false
+    },
+    {
+        "appid": 255420,
+        "name": "Magic 2015",
+        "allTimePeak": 14071,
+        "done": false
+    },
+    {
+        "appid": 1846380,
+        "name": "Need for Speed\u2122 Unbound",
+        "allTimePeak": 14063,
+        "done": false
+    },
+    {
+        "appid": 1385380,
+        "name": "Across the Obelisk",
+        "allTimePeak": 14037,
+        "done": false
+    },
+    {
+        "appid": 619340,
+        "name": "EGOS - Tales of Fallen Souls",
+        "allTimePeak": 14034,
+        "done": false
+    },
+    {
+        "appid": 979690,
+        "name": "The Ascent",
+        "allTimePeak": 14013,
+        "done": false
+    },
+    {
+        "appid": 50300,
+        "name": "Spec Ops: The Line",
+        "allTimePeak": 13995,
+        "done": false
+    },
+    {
+        "appid": 1721470,
+        "name": "Poppy Playtime",
+        "allTimePeak": 13971,
+        "done": false
+    },
+    {
+        "appid": 522210,
+        "name": "Serial Cleaner",
+        "allTimePeak": 13958,
+        "done": false
+    },
+    {
+        "appid": 1006510,
+        "name": "Devotion",
+        "allTimePeak": 13943,
+        "done": false
+    },
+    {
+        "appid": 2782530,
+        "name": "Shrimp.io",
+        "allTimePeak": 13926,
+        "done": false
+    },
+    {
+        "appid": 700330,
+        "name": "SCP: Secret Laboratory",
+        "allTimePeak": 13908,
+        "done": false
+    },
+    {
+        "appid": 977880,
+        "name": "Eastward",
+        "allTimePeak": 13882,
+        "done": false
+    },
+    {
+        "appid": 422250,
+        "name": "ShipLord",
+        "allTimePeak": 13869,
+        "done": false
+    },
+    {
+        "appid": 291480,
+        "name": "Warface: Clutch",
+        "allTimePeak": 13867,
+        "done": false
+    },
+    {
+        "appid": 216150,
+        "name": "MapleStory",
+        "allTimePeak": 13850,
+        "done": false
+    },
+    {
+        "appid": 209160,
+        "name": "Call of Duty: Ghosts",
+        "allTimePeak": 13831,
+        "done": false
+    },
+    {
+        "appid": 448630,
+        "name": "Rabiez: Epidemic",
+        "allTimePeak": 13814,
+        "done": false
+    },
+    {
+        "appid": 1462040,
+        "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+        "allTimePeak": 13803,
+        "done": false
+    },
+    {
+        "appid": 1703340,
+        "name": "The Stanley Parable: Ultra Deluxe",
+        "allTimePeak": 13802,
+        "done": false
+    },
+    {
+        "appid": 799600,
+        "name": "Cosmoteer: Starship Architect & Commander",
+        "allTimePeak": 13794,
+        "done": false
+    },
+    {
+        "appid": 502500,
+        "name": "ACE COMBAT\u21227: SKIES UNKNOWN",
+        "allTimePeak": 13758,
+        "done": false
+    },
+    {
+        "appid": 406090,
+        "name": "Enigmoon",
+        "allTimePeak": 13753,
+        "done": false
+    },
+    {
+        "appid": 587210,
+        "name": "Skull Rush",
+        "allTimePeak": 13740,
+        "done": false
+    },
+    {
+        "appid": 2375550,
+        "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
+        "allTimePeak": 13737,
+        "done": false
+    },
+    {
+        "appid": 508440,
+        "name": "Totally Accurate Battle Simulator",
+        "allTimePeak": 13674,
+        "done": false
+    },
+    {
+        "appid": 548570,
+        "name": "RAGE 2",
+        "allTimePeak": 13673,
+        "done": false
+    },
+    {
+        "appid": 2551020,
+        "name": "One-armed robber",
+        "allTimePeak": 13663,
+        "done": false
+    },
+    {
+        "appid": 2989720,
+        "name": "Item Tower",
+        "allTimePeak": 13650,
+        "done": false
+    },
+    {
+        "appid": 2023830,
+        "name": "Terra Invicta Demo",
+        "allTimePeak": 13642,
+        "done": false
+    },
+    {
+        "appid": 210770,
+        "name": "Sanctum 2",
+        "allTimePeak": 13621,
+        "done": false
+    },
+    {
+        "appid": 1040200,
+        "name": "Crime Scene Cleaner",
+        "allTimePeak": 13577,
+        "done": false
+    },
+    {
+        "appid": 1817190,
+        "name": "Marvel's Spider-Man: Miles Morales",
+        "allTimePeak": 13539,
+        "done": false
+    },
+    {
+        "appid": 245620,
+        "name": "Tropico 5",
+        "allTimePeak": 13483,
+        "done": false
+    },
+    {
+        "appid": 315210,
+        "name": "Suicide Squad: Kill the Justice League",
+        "allTimePeak": 13459,
+        "done": false
+    },
+    {
+        "appid": 751780,
+        "name": "Forager",
+        "allTimePeak": 13438,
+        "done": false
+    },
+    {
+        "appid": 647410,
+        "name": "Goodbye My King",
+        "allTimePeak": 13432,
+        "done": false
+    },
+    {
+        "appid": 1062520,
+        "name": "Dinkum",
+        "allTimePeak": 13412,
+        "done": false
+    },
+    {
+        "appid": 227700,
+        "name": "Firefall",
+        "allTimePeak": 13397,
+        "done": false
+    },
+    {
+        "appid": 1575940,
+        "name": "Sins of a Solar Empire II",
+        "allTimePeak": 13394,
+        "done": false
+    },
+    {
+        "appid": 946050,
+        "name": "Soda Dungeon 2",
+        "allTimePeak": 13385,
+        "done": false
+    },
+    {
+        "appid": 513590,
+        "name": "So Many Cubes",
+        "allTimePeak": 13382,
+        "done": false
+    },
+    {
+        "appid": 2667970,
+        "name": "100 Asian Cats",
+        "allTimePeak": 13382,
+        "done": false
+    },
+    {
+        "appid": 347560,
+        "name": "Terra Incognita Chapter One: The Descendant",
+        "allTimePeak": 13352,
+        "done": false
+    },
+    {
+        "appid": 393420,
+        "name": "Hurtworld",
+        "allTimePeak": 13333,
+        "done": false
+    },
+    {
+        "appid": 57900,
+        "name": "Duke Nukem Forever",
+        "allTimePeak": 13321,
+        "done": false
+    },
+    {
+        "appid": 292910,
+        "name": "Deponia: The Complete Journey",
+        "allTimePeak": 13321,
+        "done": false
+    },
+    {
+        "appid": 24980,
+        "name": "Mass Effect 2 (2010)",
+        "allTimePeak": 13320,
+        "done": false
+    },
+    {
+        "appid": 1414850,
+        "name": "Nickelodeon All-Star Brawl",
+        "allTimePeak": 13314,
+        "done": false
+    },
+    {
+        "appid": 666140,
+        "name": "My Time at Portia",
+        "allTimePeak": 13299,
+        "done": false
+    },
+    {
+        "appid": 344760,
+        "name": "Reign Of Kings",
+        "allTimePeak": 13278,
+        "done": false
+    },
+    {
+        "appid": 49540,
+        "name": "Aliens: Colonial Marines",
+        "allTimePeak": 13266,
+        "done": false
+    },
+    {
+        "appid": 359870,
+        "name": "FINAL FANTASY X/X-2 HD Remaster",
+        "allTimePeak": 13263,
+        "done": false
+    },
+    {
+        "appid": 269710,
+        "name": "Tumblestone",
+        "allTimePeak": 13239,
+        "done": false
+    },
+    {
+        "appid": 2947380,
+        "name": "Clickout",
+        "allTimePeak": 13236,
+        "done": false
+    },
+    {
+        "appid": 1522820,
+        "name": "Orcs Must Die! 3",
+        "allTimePeak": 13210,
+        "done": false
+    },
+    {
+        "appid": 1372280,
+        "name": "MELTY BLOOD: TYPE LUMINA",
+        "allTimePeak": 13182,
+        "done": false
+    },
+    {
+        "appid": 3022740,
+        "name": "Heart Clicker",
+        "allTimePeak": 13176,
+        "done": false
+    },
+    {
+        "appid": 99900,
+        "name": "Spiral Knights",
+        "allTimePeak": 13143,
+        "done": false
+    },
+    {
+        "appid": 333930,
+        "name": "Dirty Bomb",
+        "allTimePeak": 13113,
+        "done": false
+    },
+    {
+        "appid": 261570,
+        "name": "Ori and the Blind Forest",
+        "allTimePeak": 13108,
+        "done": false
+    },
+    {
+        "appid": 2122820,
+        "name": "Manor Lords Demo",
+        "allTimePeak": 13083,
+        "done": false
+    },
+    {
+        "appid": 1476970,
+        "name": "Legends of Idleon MMO",
+        "allTimePeak": 13048,
+        "done": false
+    },
+    {
+        "appid": 420970,
+        "name": "RoBoRumble",
+        "allTimePeak": 13029,
+        "done": false
+    },
+    {
+        "appid": 382120,
+        "name": "Journey To The Center Of The Earth",
+        "allTimePeak": 13027,
+        "done": false
+    },
+    {
+        "appid": 437220,
+        "name": "The Culling",
+        "allTimePeak": 12995,
+        "done": false
+    },
+    {
+        "appid": 340820,
+        "name": "Yelaxot",
+        "allTimePeak": 12974,
+        "done": false
+    },
+    {
+        "appid": 2351560,
+        "name": "Apocalypse Party",
+        "allTimePeak": 12972,
+        "done": false
+    },
+    {
+        "appid": 1966900,
+        "name": "20 Minutes Till Dawn",
+        "allTimePeak": 12953,
+        "done": false
+    },
+    {
+        "appid": 1530870,
+        "name": "Knockout City\u2122 Cross-Play Beta",
+        "allTimePeak": 12931,
+        "done": false
+    },
+    {
+        "appid": 20920,
+        "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+        "allTimePeak": 12884,
+        "done": false
+    },
+    {
+        "appid": 2707930,
+        "name": "Palia",
+        "allTimePeak": 12878,
+        "done": false
+    },
+    {
+        "appid": 204260,
+        "name": "Trine 2 Demo",
+        "allTimePeak": 12862,
+        "done": false
+    },
+    {
+        "appid": 1336490,
+        "name": "Against the Storm",
+        "allTimePeak": 12832,
+        "done": false
+    },
+    {
+        "appid": 3130330,
+        "name": "Metaphor: ReFantazio - Prologue Demo",
+        "allTimePeak": 12828,
+        "done": false
+    },
+    {
+        "appid": 2059790,
+        "name": "\u518d\u5237\u4e00\u628a PlayAgain",
+        "allTimePeak": 12812,
+        "done": false
+    },
+    {
+        "appid": 102500,
+        "name": "Kingdoms of Amalur: Reckoning\u2122",
+        "allTimePeak": 12800,
+        "done": false
+    },
+    {
+        "appid": 809960,
+        "name": "Radical Heights",
+        "allTimePeak": 12757,
+        "done": false
+    },
+    {
+        "appid": 963330,
+        "name": "Nya Nya Nya Girls (\u02bb\u02bb\u02bb)_(=^\uff65\u03c9\uff65^=)_(\u02bb\u02bb\u02bb)",
+        "allTimePeak": 12757,
+        "done": false
+    },
+    {
+        "appid": 768200,
+        "name": "Smalland: Survive the Wilds",
+        "allTimePeak": 12741,
+        "done": false
+    },
+    {
+        "appid": 928600,
+        "name": "F1 2019",
+        "allTimePeak": 12736,
+        "done": false
+    },
+    {
+        "appid": 258970,
+        "name": "Gauntlet\u2122 ",
+        "allTimePeak": 12730,
+        "done": false
+    },
+    {
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "allTimePeak": 12716,
+        "done": false
+    },
+    {
+        "appid": 1432860,
+        "name": "Sun Haven",
+        "allTimePeak": 12706,
+        "done": false
+    },
+    {
+        "appid": 224600,
+        "name": "Defiance",
+        "allTimePeak": 12690,
+        "done": false
+    },
+    {
+        "appid": 1562430,
+        "name": "DREDGE",
+        "allTimePeak": 12686,
+        "done": false
+    },
+    {
+        "appid": 20900,
+        "name": "The Witcher: Enhanced Edition",
+        "allTimePeak": 12685,
+        "done": false
+    },
+    {
+        "appid": 209650,
+        "name": "Call of Duty: Advanced Warfare",
+        "allTimePeak": 12675,
+        "done": false
+    },
+    {
+        "appid": 324800,
+        "name": "Shadow Warrior 2",
+        "allTimePeak": 12634,
+        "done": false
+    },
+    {
+        "appid": 446800,
+        "name": "Transport Fever",
+        "allTimePeak": 12615,
+        "done": false
+    },
+    {
+        "appid": 2828860,
+        "name": "The Forever Winter",
+        "allTimePeak": 12611,
+        "done": false
+    },
+    {
+        "appid": 67370,
+        "name": "The Darkness II",
+        "allTimePeak": 12593,
+        "done": false
+    },
+    {
+        "appid": 528670,
+        "name": "Elems",
+        "allTimePeak": 12590,
+        "done": false
+    },
+    {
+        "appid": 1680880,
+        "name": "Forspoken",
+        "allTimePeak": 12579,
+        "done": false
+    },
+    {
+        "appid": 113200,
+        "name": "The Binding of Isaac",
+        "allTimePeak": 12575,
+        "done": false
+    },
+    {
+        "appid": 1343400,
+        "name": "RuneScape",
+        "allTimePeak": 12569,
+        "done": false
+    },
+    {
+        "appid": 364210,
+        "name": "Sierra Ops",
+        "allTimePeak": 12559,
         "done": false
     }
 ]

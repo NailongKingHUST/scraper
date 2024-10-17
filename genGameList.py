@@ -11,7 +11,6 @@ async def genGameList(string: str):
 
     def match_string(string: str):
         return string and "<" not in string
-
     soup=BeautifulSoup(string,"lxml")
     games=soup.find_all(href=match_href,string=match_string)
     gamesList=[]
