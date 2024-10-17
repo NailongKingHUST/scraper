@@ -14,4 +14,4 @@
 
 #### Phase 1 抓取数据
 
-&emsp;&emsp;目前由 `@Chris-Smile7` 实现了从 `steamdb` 上的数据抓取，数据文件为 `data.json`.
+&emsp;&emsp;目前由 `@Chris-Smile7` 实现了从 `steamdb` 上的数据抓取，游戏列表文件为 `data.json`，游戏历史实时在线人数数据在 `data/` 下。
