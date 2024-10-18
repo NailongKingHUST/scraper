@@ -24,8 +24,24 @@ Complex FTonDay(const Dot* x, unsigned Len) {
     Rt = Rt + Base[Time] * x[i].Val;
     Sum += x[i].Val;
   }
-  Sum /= Len;
   return Rt / Sum;
+}
+Complex FTonWeek(const Dot* x, unsigned Len) {
+  Complex Base[7], Rt(0, 0);
+  double Sum = 0;
+  // printf("Here\n");
+  Base[1] = { cos(PI * 2 / 7), sin(PI * 2 / 7) };
+  Base[0] = { 1, 0 };
+  for (unsigned i = 2; i < 7; ++i)
+    Base[i] = Base[i - 1] * Base[1];
+  // for (unsigned i = 0; i < 7; ++i) Base[i].Prt();
+  for (unsigned i = 0; i < Len; ++i) {
+    unsigned Time = (x[i].Time / 86400 + 4) % 7;
+    // printf("Here Time %u Base", x[i].Time), Base[Time].Prt();
+    Rt = Rt + Base[Time] * x[i].Val;
+    Sum += x[i].Val;
+  }
+  return (Rt / Sum) * 100;
 }
 #endif
 
