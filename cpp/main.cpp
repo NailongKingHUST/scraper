@@ -4,43 +4,37 @@
 
 using namespace std;
 
-struct Complex {
-  double real, imag;
-  Complex(double r = 0, double i = 0) : real(r), imag(i) {}
-  Complex operator+(const Complex& b) const {
-    return Complex(real + b.real, imag + b.imag);
-  }
-  Complex operator-(const Complex& b) const {
-    return Complex(real - b.real, imag - b.imag);
-  }
-  Complex operator*(const Complex& b) const {
-    return Complex(real * b.real - imag * b.imag, real * b.imag + imag * b.real);
-  }
-  Complex operator/(const Complex& b) const {
-    double den = b.real * b.real + b.imag * b.imag;
-    return Complex((real * b.real + imag * b.imag) / den,
-      (imag * b.real - real * b.imag) / den);
-  }
-  Complex operator/(const double b) const {
-    return Complex(real / b, imag / b);
-  }
-  Complex operator*(const double b) const {
-    return Complex(real * b, imag * b);
-  }
-}BaseDay[24];
-struct Dot {
-  unsigned Time, Val;
-};
+Complex FTonDay(const Dot* x, unsigned Len);
 signed main() {
   Dot CurLst[10005];
-  unsigned Id;
+  unsigned Id, Start, Step, Cnt = 0;
   char OpenFileName[105];
 
   scanf("%u", &Id);
-  spritnf(OpenFileName, "../data/%u.json", Id);
+  sprintf(OpenFileName, "../data/%u.json", Id);
 
+  freopen(OpenFileName, "r", stdin);
+  scanf("%u%u", &Start, &Step);
+  getchar(), getchar(), getchar(), getchar(), getchar(), getchar(), getchar(), getchar();
+  char CurC;
+  do {
+    CurC = getchar();
+    while (!((CurC >= '0' && CurC <= '9') || (CurC >= 'a' && CurC <= 'z'))) CurC = getchar();
+    if (CurC == 'n') getchar(), getchar(), getchar(), getchar();
+    else {
+      CurLst[Cnt].Time = Start;
+      CurLst[Cnt].Val = 0;
+      while (CurC >= '0' && CurC <= '9') {
+        CurLst[Cnt].Val = CurLst[Cnt].Val * 10 + CurC - '0';
+        CurC = getchar();
+      }
+      ++Cnt;
+    }
+    Start += Step;
+  } while (CurC != ']');
+  FTonDay(CurLst, Cnt).Prt();
   return 0;
 }
 /*
-g++ ft.cpp main.cpp -o ../bin/ft.exe
+g++ main.cpp -o ../bin/ft.exe
 */

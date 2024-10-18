@@ -1,4 +1,8 @@
+#ifndef MyFT
+#define MyFT
+
 #include<bits/stdc++.h>
+#include "Complex.hpp"
 using namespace std;
 
 const double PI = 3.1415926535897932384626433832795;
@@ -23,6 +27,8 @@ Complex FTonDay(const Dot* x, unsigned Len) {
   Sum /= Len;
   return Rt / Sum;
 }
+#endif
+
 /*
 g++ ft.cpp main.cpp -o ../bin/ft.exe
 */
