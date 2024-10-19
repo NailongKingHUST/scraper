@@ -22,7 +22,7 @@ async def getGameList():
     print(await page.get_content())
     print("已生成data.json")
 
-async def getData(dataPath: str):
+async def getData(dataPath: str,max: bool):
     with open(dataPath,"r") as f:
         gamesList=json.load(f)
     browser = await uc.start()
@@ -43,10 +43,10 @@ async def getData(dataPath: str):
     try:
         l=len(gamesList)
         for idx,game in enumerate(gamesList):
-            if game['done']:
+            if game['done'+{"max" if max else "week"}]:
                 continue
-            await page.get(BaseUrl+f"api/GetGraphMax/?appid={game['appid']}")
-            with open(f"{DATA_FOLDER}/{game['appid']}.json","w") as f:
+            await page.get(BaseUrl+f"api/GetGraph{"Max" if max else "Week"}/?appid={game['appid']}")
+            with open(f"{DATA_FOLDER}/{"max" if max else "week"}/{game['appid']}.json","w") as f:
                 s=(await page.get_content())[99:-64]
                 res=json.loads(s)
                 if res['success']!=True:
@@ -62,4 +62,4 @@ async def getData(dataPath: str):
 if __name__ == '__main__':
     # since asyncio.run never worked (for me)
     #uc.loop().run_until_complete(getGameList())
-    uc.loop().run_until_complete(getData("data.json"))
+    uc.loop().run_until_complete(getData("data.json",1))
