@@ -47,6 +47,10 @@ async def getData(dataPath: str):
                 continue
             await page.get(BaseUrl+f"api/GetGraphMax/?appid={game['appid']}")
             with open(f"{DATA_FOLDER}/{game['appid']}.json","w") as f:
+                s=(await page.get_content())[99:-64]
+                res=json.loads(s)
+                if res['success']!=True:
+                    raise SyntaxError
                 f.write((await page.get_content())[99:-64])
             game['done']=True
             print(f"{idx} / {l}",end="\r")
