@@ -241,7 +241,7 @@
         "appid": 10,
         "name": "Counter-Strike",
         "allTimePeak": 319586,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false,
         "done": true
     },
@@ -312,7 +312,7 @@
         "appid": 440,
         "name": "Team Fortress 2",
         "allTimePeak": 253997,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -501,7 +501,7 @@
         "appid": 1487290,
         "name": "NARAKA: BLADEPOINT Demo",
         "allTimePeak": 186589,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -515,7 +515,7 @@
         "appid": 243750,
         "name": "Source SDK Base 2013 Multiplayer",
         "allTimePeak": 184888,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -529,7 +529,7 @@
         "appid": 402390,
         "name": "Hyperdrive Massacre",
         "allTimePeak": 181308,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -543,7 +543,7 @@
         "appid": 510840,
         "name": "Evolvation",
         "allTimePeak": 172870,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -564,7 +564,7 @@
         "appid": 2075730,
         "name": "Call of Duty\u00ae: Modern Warfare\u00ae II - Open Beta",
         "allTimePeak": 168330,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -592,7 +592,7 @@
         "appid": 96000,
         "name": "The Tiny Bang Story",
         "allTimePeak": 164840,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -613,7 +613,7 @@
         "appid": 550,
         "name": "Left 4 Dead 2",
         "allTimePeak": 162399,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -634,7 +634,7 @@
         "appid": 1638720,
         "name": "Battlefield\u2122 2042 Open Beta",
         "allTimePeak": 156665,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
@@ -690,7 +690,7 @@
         "appid": 1584640,
         "name": "NARAKA: BLADEPOINT Playtest",
         "allTimePeak": 148931,
-        "donemax": false,
+        "donemax": true,
         "doneweek": false
     },
     {
