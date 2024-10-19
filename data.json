@@ -242,7 +242,8 @@
         "name": "Counter-Strike",
         "allTimePeak": 319586,
         "donemax": false,
-        "doneweek": false
+        "doneweek": false,
+        "done": true
     },
     {
         "appid": 1085660,

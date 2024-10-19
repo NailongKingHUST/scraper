@@ -23,6 +23,10 @@ async def getGameList():
     print("已生成data.json")
 
 async def getData(dataPath: str,max: bool):
+
+    category=("max" if max else "week")
+    apiCategory=("GetGraphMax" if max else "GetGraphWeek")
+
     with open(dataPath,"r") as f:
         gamesList=json.load(f)
     browser = await uc.start()
@@ -43,10 +47,10 @@ async def getData(dataPath: str,max: bool):
     try:
         l=len(gamesList)
         for idx,game in enumerate(gamesList):
-            if game['done'+{"max" if max else "week"}]:
+            if game['done'+category]:
                 continue
-            await page.get(BaseUrl+f"api/GetGraph{"Max" if max else "Week"}/?appid={game['appid']}")
-            with open(f"{DATA_FOLDER}/{"max" if max else "week"}/{game['appid']}.json","w") as f:
+            await page.get(BaseUrl+f"api/"+apiCategory+f"/?appid={game['appid']}")
+            with open(f"{DATA_FOLDER}/"+category+f"/{game['appid']}.json","w") as f:
                 s=(await page.get_content())[99:-64]
                 res=json.loads(s)
                 if res['success']!=True:
@@ -57,6 +61,7 @@ async def getData(dataPath: str,max: bool):
             await asyncio.sleep(random.uniform(15.0,20.0))
     except Exception as e:
         print(e)
+        input()
     
 
 if __name__ == '__main__':
