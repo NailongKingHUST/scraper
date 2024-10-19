@@ -44,9 +44,10 @@ async def getData(dataPath: str,max: bool):
         with open(dataPath,"w") as f:
             json.dump(gamesList,f,indent=4)
     atexit.register(onExit)
-    try:
-        l=len(gamesList)
-        for idx,game in enumerate(gamesList):
+    l=len(gamesList)
+    for idx,game in enumerate(gamesList):
+        try:
+        
             if game['done'+category]:
                 continue
             await page.get(BaseUrl+f"api/"+apiCategory+f"/?appid={game['appid']}")
@@ -59,9 +60,8 @@ async def getData(dataPath: str,max: bool):
             game['done']=True
             print(f"{idx} / {l}",end="\r")
             await asyncio.sleep(random.uniform(15.0,20.0))
-    except Exception as e:
-        print(e)
-        input()
+        except Exception as e:
+            print(f"Eror: Index: {idx} Appid: {game['appid']}  Name: {game['name']}")
     
 
 if __name__ == '__main__':
