@@ -90,6 +90,7 @@ class Scraper:
                 await asyncio.sleep(random.uniform(15.0,20.0))
             except Exception as e:
                 print(f"Eror: Index: {idx} Appid: {game['appid']}  Name: {game['name']}")
+                await asyncio.sleep(2)
     
 
                 
