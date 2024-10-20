@@ -418,7 +418,7 @@
         "name": "Source SDK Base 2007",
         "allTimePeak": 221857,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 285800,
@@ -628,7 +628,7 @@
         "name": "Enshrouded",
         "allTimePeak": 160405,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 1638720,
@@ -642,49 +642,49 @@
         "name": "ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122",
         "allTimePeak": 156171,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 491950,
         "name": "Orwell",
         "allTimePeak": 154375,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 1818750,
         "name": "MultiVersus",
         "allTimePeak": 153433,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 433850,
         "name": "Z1 Battle Royale",
         "allTimePeak": 151239,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 1604030,
         "name": "V Rising",
         "allTimePeak": 150645,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 431960,
         "name": "Wallpaper Engine",
         "allTimePeak": 150375,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 638070,
         "name": "Murderous Pursuits",
         "allTimePeak": 149224,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     },
     {
         "appid": 1584640,
@@ -698,6 +698,6 @@
         "name": "BROKE PROTOCOL",
         "allTimePeak": 147854,
         "donemax": true,
-        "doneweek": false
+        "doneweek": true
     }
 ]
