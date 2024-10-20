@@ -68,6 +68,7 @@ class Scraper:
                     continue
                 await page.get(f"https://steamdb.info/app/{game['appid']}/charts/")
                 with open(f"{DATA_FOLDER}/"+self.category+f"/{game['appid']}.json","w") as f:
+                    count=0
                     while True:
                         async with self.lock:
                             if not self.requestQueue.empty():
@@ -76,6 +77,9 @@ class Scraper:
                                 body,b64_encoded = await page.send(command)
                                 print(body)
                                 break
+                        count+=1
+                        if count >= 10:
+                            break
                         await asyncio.sleep(0.5)
                     res=json.loads(body)
                     if res['success']!=True:
@@ -94,4 +98,4 @@ class Scraper:
 if __name__ == '__main__':
     # since asyncio.run never worked (for me)
     #uc.loop().run_until_complete(getGameList())
-    uc.loop().run_until_complete(Scraper().getData("data.json",1))
+    uc.loop().run_until_complete(Scraper().getData("data.json",0))
