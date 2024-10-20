@@ -26,6 +26,13 @@ struct Complex {
   Complex operator*(const double b) const {
     return Complex(real * b, imag * b);
   }
+  double ModV() const {
+    double Rt(real * real + imag * imag);
+    return sqrt(Rt);
+  }
+  double Delt(const Complex& x) const {
+    return (*this - x).ModV() / ModV();
+  }
   void Prt() {
     printf("(%lf, %lf)\n", real, imag);
   }

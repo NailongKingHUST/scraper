@@ -21,6 +21,7 @@ Complex FTonDay(const Dot* x, unsigned Len) {
     Base[i] = { -Base[i - 6].imag, Base[i - 6].real };
   for (unsigned i = 0; i < Len; ++i) {
     unsigned Time = (x[i].Time / 3600) % 24;
+    // printf("Here Time %u Base", x[i].Time), Base[Time].Prt();
     Rt = Rt + Base[Time] * x[i].Val;
     Sum += x[i].Val;
   }
