@@ -19,7 +19,8 @@ async def genGameList(string: str):
             'appid': int(game['href'][5:-8]),
             'name': game.string,
             'allTimePeak': int(game.parent.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling.next_sibling.string.replace(",","")),
-            'done': False
+            'donemax': False,
+            'doneweek': False
         })
 
     gamesList.sort(key=lambda game:game['allTimePeak'],reverse=True)

@@ -6,11 +6,11 @@ with open("data.json","r") as f:
 
 for game in games:
     try:
-        with open(f"data/max/{game['appid']}.json","r") as f:
+        with open(f"data/week/{game['appid']}.json","r") as f:
             json.load(f)
     except:
-        game['donemax']=False
-        os.remove(f"data/max/{game['appid']}.json")
+        game['doneweek']=False
+        os.remove(f"data/week/{game['appid']}.json")
 
 with open("data.json","w") as f:
     json.dump(games,f,indent=4)
