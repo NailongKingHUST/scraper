@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import re,json
 
 
-async def genGameList(string: str):
+async def genGameList(string: str,filePath: str):
 
     Uri_matcher=re.compile("/app/([0-9]*)/charts/")
 
@@ -26,7 +26,7 @@ async def genGameList(string: str):
     gamesList.sort(key=lambda game:game['allTimePeak'],reverse=True)
     gamesList=gamesList[:1000]
 
-    with open("data.json","w") as f:
+    with open(filePath,"w") as f:
         json.dump(gamesList,f,indent=4)
 
     

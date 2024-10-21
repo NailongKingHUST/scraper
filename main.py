@@ -1,4 +1,4 @@
-import asyncio,random,atexit,queue
+import asyncio,random,atexit,queue,argparse
 import nodriver as uc
 
 from genGameList import *
@@ -20,7 +20,7 @@ class Scraper:
         async with self.lock:
             self.requestQueue.put(event.request_id)
 
-    async def getGameList():
+    async def getGameList(filePath: str):
         browser = await uc.start()
         page = await browser.get(BaseUrl+"charts/?sort=peak")
         await page.sleep(5)
@@ -32,15 +32,15 @@ class Scraper:
                 break
         print("开始爬取.")
         await asyncio.sleep(5)
-        await genGameList(await page.get_content())
+        await genGameList((await page.get_content()),filePath=filePath)
         print(await page.get_content())
         print("已生成 data.json 文件.")
 
-    async def getData(self, dataPath: str, max: bool):
+    async def getData(self, filePath: str, max: bool):
         self.category=("max" if max else "week")
         self.apiCategory=("GetGraphMax" if max else "GetGraphWeek")
         self.requestQueue=queue.Queue()
-        with open(dataPath,"r") as f:
+        with open(filePath,"r") as f:
             gamesList=json.load(f)
         length=len(gamesList)
         browser = await uc.start()
@@ -56,7 +56,7 @@ class Scraper:
         print("开始爬取.")
 
         def onExit():
-            with open(dataPath,"w") as f:
+            with open(filePath,"w") as f:
                 json.dump(gamesList,f,indent=4)
         atexit.register(onExit)
 
@@ -92,11 +92,24 @@ class Scraper:
                 print(f"Eror: Index: {idx} Appid: {game['appid']}  Name: {game['name']}")
                 await asyncio.sleep(2)
     
-
-                
-        
+ 
 
 if __name__ == '__main__':
     # since asyncio.run never worked (for me)
     #uc.loop().run_until_complete(getGameList())
-    uc.loop().run_until_complete(Scraper().getData("data.json",0))
+    parser=argparse.ArgumentParser(description="A scraper for SteamAnalyze\
+        example: python main.py --get <list | data> (optional: --data <max | week>)\
+        ")
+    parser.add_argument("-g","--get",help="获取列表|数据",type=str,required=True)
+    parser.add_argument("-f","--file",help="索引文件",type=str,required=True)
+    parser.add_argument("-d","--data",help="获取数据类型",type=str,required=False)
+    args=parser.parse_args()
+    if args.get == "list":
+        task = Scraper().getGameList(args.file)
+    else:
+        if args.data == None:
+            print("usage: main.py [-h] -g GET -f FILE [-d DATA]")
+            exit(1)
+        else:
+            task= Scraper().getData(filePath=args.file,max=args.data=='max')
+    uc.loop().run_until_complete(task)
