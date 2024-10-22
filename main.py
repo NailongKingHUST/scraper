@@ -2,10 +2,13 @@ import asyncio,random,atexit,queue,argparse
 import nodriver as uc
 
 from genGameList import *
-
+import Proxy
 
 DATA_FOLDER="data"
 BaseUrl='https://steamdb.info/'
+config = {
+
+}
 
 class Scraper:
     def __init__(self):
@@ -21,7 +24,7 @@ class Scraper:
             self.requestQueue.put(event.request_id)
 
     async def getGameList(filePath: str):
-        browser = await uc.start()
+        browser = await uc.start(**config)
         page = await browser.get(BaseUrl+"charts/?sort=peak")
         await page.sleep(5)
         while True:
@@ -34,7 +37,7 @@ class Scraper:
         await asyncio.sleep(5)
         await genGameList((await page.get_content()),filePath=filePath)
         print(await page.get_content())
-        print("已生成 data.json 文件.")
+        print(f"已生成 {filePath} 文件.")
 
     async def getData(self, filePath: str, max: bool):
         self.category=("max" if max else "week")
@@ -43,7 +46,7 @@ class Scraper:
         with open(filePath,"r") as f:
             gamesList=json.load(f)
         length=len(gamesList)
-        browser = await uc.start()
+        browser = await uc.start(**config)
         page = await browser.get(BaseUrl)
         self.tab=page
         await page.sleep(5)
@@ -90,7 +93,7 @@ class Scraper:
                 await asyncio.sleep(random.uniform(15.0,20.0))
             except Exception as e:
                 print(f"Eror: Index: {idx} Appid: {game['appid']}  Name: {game['name']}")
-                await asyncio.sleep(2)
+                await asyncio.sleep(random.uniform(10.0,15.0))
     
  
 
@@ -102,14 +105,22 @@ if __name__ == '__main__':
         ")
     parser.add_argument("-g","--get",help="获取列表|数据",type=str,required=True)
     parser.add_argument("-f","--file",help="索引文件",type=str,required=True)
-    parser.add_argument("-d","--data",help="获取数据类型",type=str,required=False)
+    parser.add_argument("-d","--data",help="获取数据类型",type=str,required=False,default="max")
+    parser.add_argument("-p","--proxy",help="是否启用代理",type=bool,required=False,default=False)
     args=parser.parse_args()
+
+    if args.proxy == True:
+        try:
+            uc.loop().run_until_complete(Proxy.getProxyList())
+        except:
+            print("Update ProxyList Error")
+            exit(1)
+        config['browser_args']=[
+            '--proxy-server=http://'+Proxy.getAProxy()
+        ]
+
     if args.get == "list":
         task = Scraper().getGameList(args.file)
     else:
-        if args.data == None:
-            print("usage: main.py [-h] -g GET -f FILE [-d DATA]")
-            exit(1)
-        else:
-            task= Scraper().getData(filePath=args.file,max=args.data=='max')
+        task= Scraper().getData(filePath=args.file,max=args.data=='max')
     uc.loop().run_until_complete(task)
