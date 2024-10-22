@@ -5,6 +5,6 @@
 python -g <list|data> -f <data.json> [-d <max|week>]
 并在弹出的浏览器窗口手动点击验证按钮
 例如：
-想要生成list，请使用`python main.py -g list -f data.json`
-
+想要生成list，请使用`main.py [-h] -g GET -f FILE [-d DATA] [-p PROXY]`
+程序内置了自动代理获取，如需使用代理，请在后面加上参数`-p 1`，即可自动获取代理列表并随机选择一个来使用。
 生成list后，想要获取max data，请使用`python main.py -g data -f data.json -d max`
